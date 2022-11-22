@@ -1,0 +1,576 @@
+Pyridoxal phosphate	CC1=NC=C(COP(O)(O)=O)C(C=O)=C1O	DB00114	https://go.drugbank.com/drugs/DB00114	approved; investigational; nutraceutical	-636.903
+Biotin	[H][C@]12CS[C@@H](CCCCC(O)=O)[C@@]1([H])NC(=O)N2	DB00121	https://go.drugbank.com/drugs/DB00121	approved; investigational; nutraceutical	-710.993
+Succinic acid	OC(=O)CCC(O)=O	DB00139	https://go.drugbank.com/drugs/DB00139	approved; nutraceutical	-622.199
+Glutathione	[H][C@](N)(CCC(O)=N[C@@]([H])(CS)C(O)=NCC(O)=O)C(O)=O	DB00143	https://go.drugbank.com/drugs/DB00143	approved; investigational; nutraceutical	-626.436
+Thiamine	CC1=C(CCO)SC=[N+]1CC1=CN=C(C)N=C1N	DB00152	https://go.drugbank.com/drugs/DB00152	approved; investigational; nutraceutical; vet_approved	-636.048
+Pyridoxine	CC1=C(O)C(CO)=C(CO)C=N1	DB00165	https://go.drugbank.com/drugs/DB00165	approved; investigational; nutraceutical; vet_approved	-632.014
+Adenine	NC1=C2NC=NC2=NC=N1	DB00173	https://go.drugbank.com/drugs/DB00173	approved; nutraceutical	-655.55
+Baclofen	NCC(CC(O)=O)C1=CC=C(Cl)C=C1	DB00181	https://go.drugbank.com/drugs/DB00181	approved	-659.256
+Vidarabine	NC1=NC=NC2=C1N=CN2[C@@H]1O[C@H](CO)[C@@H](O)[C@@H]1O	DB00194	https://go.drugbank.com/drugs/DB00194	approved; investigational	-624.269
+Caffeine	CN1C=NC2=C1C(=O)N(C)C(=O)N2C	DB00201	https://go.drugbank.com/drugs/DB00201	approved	-690.984
+Moxifloxacin	[H][C@]12CN(C[C@@]1([H])NCCC2)C1=C(F)C=C2C(=O)C(=CN(C3CC3)C2=C1OC)C(O)=O	DB00218	https://go.drugbank.com/drugs/DB00218	approved; investigational	-599.138
+Enflurane	FC(F)OC(F)(F)C(F)Cl	DB00228	https://go.drugbank.com/drugs/DB00228	approved; investigational; vet_approved	-626.614
+Reboxetine	[H][C@@](OC1=CC=CC=C1OCC)(C1=CC=CC=C1)[C@@]1([H])CNCCO1	DB00234	https://go.drugbank.com/drugs/DB00234	approved; experimental	-632.743
+Cladribine	NC1=C2N=CN([C@H]3C[C@H](O)[C@@H](CO)O3)C2=NC(Cl)=N1	DB00242	https://go.drugbank.com/drugs/DB00242	approved; investigational	-649.295
+Phenytoin	O=C1NC(=O)C(N1)(C1=CC=CC=C1)C1=CC=CC=C1	DB00252	https://go.drugbank.com/drugs/DB00252	approved; vet_approved	-633.422
+Anagrelide	ClC1=CC=C2N=C3NC(=O)CN3CC2=C1Cl	DB00261	https://go.drugbank.com/drugs/DB00261	approved	-634.864
+Olmesartan	CCCC1=NC(=C(N1CC1=CC=C(C=C1)C1=C(C=CC=C1)C1=NN=NN1)C(O)=O)C(C)(C)O	DB00275	https://go.drugbank.com/drugs/DB00275	approved; investigational	-625.749
+Clemastine	CN1CCC[C@@H]1CCO[C@](C)(C1=CC=CC=C1)C1=CC=C(Cl)C=C1	DB00283	https://go.drugbank.com/drugs/DB00283	approved; investigational	-633.679
+Raltitrexed	CN(CC1=CC2=C(NC(C)=NC2=O)C=C1)C1=CC=C(S1)C(=O)N[C@@H](CCC(O)=O)C(O)=O	DB00293	https://go.drugbank.com/drugs/DB00293	approved; investigational	-637.376
+Ertapenem	[H][C@]12[C@@H](C)C(S[C@]3([H])CN[C@@]([H])(C3)C(=O)NC3=CC=CC(=C3)C(O)=O)=C(N1C(=O)[C@]2([H])[C@@H](C)O)C(O)=O	DB00303	https://go.drugbank.com/drugs/DB00303	approved; investigational	-530.999
+Gefitinib	COC1=C(OCCCN2CCOCC2)C=C2C(NC3=CC(Cl)=C(F)C=C3)=NC=NC2=C1	DB00317	https://go.drugbank.com/drugs/DB00317	approved; investigational	-687.251
+Dihydroergotamine	[H][C@@]12CCCN1C(=O)[C@H](CC1=CC=CC=C1)N1C(=O)[C@](C)(NC(=O)[C@H]3CN(C)[C@]4([H])CC5=CNC6=CC=CC(=C56)[C@@]4([H])C3)O[C@@]21O	DB00320	https://go.drugbank.com/drugs/DB00320	approved; investigational	-609.08
+Pyrazinamide	NC(=O)C1=NC=CN=C1	DB00339	https://go.drugbank.com/drugs/DB00339	approved; investigational	-652.828
+Nitisinone	[O-][N+](=O)C1=C(C=CC(=C1)C(F)(F)F)C(=O)C1C(=O)CCCC1=O	DB00348	https://go.drugbank.com/drugs/DB00348	approved; investigational	-707.267
+Megestrol acetate	[H][C@@]12CC[C@](OC(C)=O)(C(C)=O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])C=C(C)C2=CC(=O)CC[C@]12C	DB00351	https://go.drugbank.com/drugs/DB00351	approved; investigational; vet_approved	-656.319
+Levonorgestrel	[H][C@@]12CC[C@@](O)(C#C)[C@@]1(CC)CC[C@]1([H])[C@@]3([H])CCC(=O)C=C3CC[C@@]21[H]	DB00367	https://go.drugbank.com/drugs/DB00367	approved; investigational	-631.092
+Timolol	[H][C@](O)(CNC(C)(C)C)COC1=NSN=C1N1CCOCC1	DB00373	https://go.drugbank.com/drugs/DB00373	approved	-632.901
+Tacrine	NC1=C2CCCCC2=NC2=CC=CC=C12	DB00382	https://go.drugbank.com/drugs/DB00382	approved; investigational; withdrawn	-710.354
+Phenylpropanolamine	[H][C@@](C)(N)[C@]([H])(O)C1=CC=CC=C1	DB00397	https://go.drugbank.com/drugs/DB00397	approved; vet_approved; withdrawn	-636.878
+Dexbrompheniramine	CN(C)CC[C@@H](C1=CC=C(Br)C=C1)C1=CC=CC=N1	DB00405	https://go.drugbank.com/drugs/DB00405	approved	-698.346
+Pramipexole	CCCN[C@H]1CCC2=C(C1)SC(N)=N2	DB00413	https://go.drugbank.com/drugs/DB00413	approved; investigational	-652.181
+Streptozocin	CN(N=O)C(=O)N[C@H]1[C@@H](O)O[C@H](CO)[C@@H](O)[C@@H]1O	DB00428	https://go.drugbank.com/drugs/DB00428	approved; investigational	-631.413
+Allopurinol	OC1=NC=NC2=C1C=NN2	DB00437	https://go.drugbank.com/drugs/DB00437	approved	-629.866
+Entecavir	NC1=NC(=O)C2=C(N1)N(C=N2)[C@H]1C[C@H](O)[C@@H](CO)C1=C	DB00442	https://go.drugbank.com/drugs/DB00442	approved; investigational	-721.622
+Droperidol	FC1=CC=C(C=C1)C(=O)CCCN1CCC(=CC1)N1C(=O)NC2=CC=CC=C12	DB00450	https://go.drugbank.com/drugs/DB00450	approved; vet_approved	-698.767
+Quinine	[H][C@]1(C[C@@H]2CC[N@]1C[C@@H]2C=C)[C@H](O)C1=CC=NC2=CC=C(OC)C=C12	DB00468	https://go.drugbank.com/drugs/DB00468	approved	-634.816
+Hexylcaine	CC(CNC1CCCCC1)OC(=O)C1=CC=CC=C1	DB00473	https://go.drugbank.com/drugs/DB00473	approved; withdrawn	-625.078
+Dicloxacillin	[H][C@]12SC(C)(C)[C@@H](N1C(=O)[C@H]2NC(=O)C1=C(C)ON=C1C1=C(Cl)C=CC=C1Cl)C(O)=O	DB00485	https://go.drugbank.com/drugs/DB00485	approved; investigational; vet_approved	-442.509
+Buspirone	O=C1CC2(CCCC2)CC(=O)N1CCCCN1CCN(CC1)C1=NC=CC=N1	DB00490	https://go.drugbank.com/drugs/DB00490	approved; investigational	-623.208
+Cimetidine	CN\C(NCCSCC1=C(C)NC=N1)=N\C#N	DB00501	https://go.drugbank.com/drugs/DB00501	approved; investigational	-657.367
+Albendazole	CCCSC1=CC2=C(C=C1)N=C(NC(=O)OC)N2	DB00518	https://go.drugbank.com/drugs/DB00518	approved; vet_approved	-585.33
+Carteolol	CC(C)(C)NCC(O)COC1=CC=CC2=C1CCC(=O)N2	DB00521	https://go.drugbank.com/drugs/DB00521	approved	-646.529
+Erlotinib	COCCOC1=CC2=C(C=C1OCCOC)C(NC1=CC(=CC=C1)C#C)=NC=N2	DB00530	https://go.drugbank.com/drugs/DB00530	approved; investigational	-646.777
+Amoxapine	ClC1=CC2=C(OC3=CC=CC=C3N=C2N2CCNCC2)C=C1	DB00543	https://go.drugbank.com/drugs/DB00543	approved	-629.905
+Bosentan	COC1=CC=CC=C1OC1=C(NS(=O)(=O)C2=CC=C(C=C2)C(C)(C)C)N=C(N=C1OCCO)C1=NC=CC=N1	DB00559	https://go.drugbank.com/drugs/DB00559	approved; investigational	-664.389
+Methotrexate	[H][C@@](CCC(O)=O)(NC(=O)C1=CC=C(C=C1)N(C)CC1=NC2=C(N)NC(=N)N=C2N=C1)C(O)=O	DB00563	https://go.drugbank.com/drugs/DB00563	approved	-560.568
+Carbenicillin	[H][C@]12SC(C)(C)[C@@H](N1C(=O)[C@H]2NC(=O)C(C(O)=O)C1=CC=CC=C1)C(O)=O	DB00578	https://go.drugbank.com/drugs/DB00578	approved; investigational	-651.878
+Levocarnitine	C[N+](C)(C)C[C@H](O)CC([O-])=O	DB00583	https://go.drugbank.com/drugs/DB00583	approved; investigational	-630.765
+Amiloride	NC(=N)NC(=O)C1=NC(Cl)=C(N)N=C1N	DB00594	https://go.drugbank.com/drugs/DB00594	approved	-630.022
+Sulindac	CC1=C(CC(O)=O)C2=CC(F)=CC=C2\C1=C/C1=CC=C(C=C1)S(C)=O	DB00605	https://go.drugbank.com/drugs/DB00605	approved; investigational	-605.523
+Amodiaquine	CCN(CC)CC1=C(O)C=CC(NC2=C3C=CC(Cl)=CC3=NC=C2)=C1	DB00613	https://go.drugbank.com/drugs/DB00613	approved; investigational	-653.079
+Clorazepic acid	OC(=O)C1N=C(C2=CC=CC=C2)C2=C(NC1=O)C=CC(Cl)=C2	DB00628	https://go.drugbank.com/drugs/DB00628	approved; illicit	-653.62
+Clofarabine	[H][C@]1(F)[C@H](O)[C@@H](CO)O[C@H]1N1C=NC2=C(N)N=C(Cl)N=C12	DB00631	https://go.drugbank.com/drugs/DB00631	approved; investigational	-654.791
+Dextropropoxyphene	CCC(=O)O[C@@](CC1=CC=CC=C1)([C@H](C)CN(C)C)C1=CC=CC=C1	DB00647	https://go.drugbank.com/drugs/DB00647	approved; illicit; investigational; withdrawn	-658.866
+Dyphylline	CN1C2=C(N(CC(O)CO)C=N2)C(=O)N(C)C1=O	DB00651	https://go.drugbank.com/drugs/DB00651	approved	-653.226
+Metaxalone	CC1=CC(OCC2CNC(=O)O2)=CC(C)=C1	DB00660	https://go.drugbank.com/drugs/DB00660	approved	-617.871
+Benzyl benzoate	O=C(OCC1=CC=CC=C1)C1=CC=CC=C1	DB00676	https://go.drugbank.com/drugs/DB00676	approved	-657.492
+Cephaloglycin	[H][C@]12SCC(COC(C)=O)=C(N1C(=O)[C@H]2NC(=O)[C@H](N)C1=CC=CC=C1)C(O)=O	DB00689	https://go.drugbank.com/drugs/DB00689	approved	-629.496
+Fluorescein	OC1=CC=C2C(OC3=CC(O)=CC=C3C22OC(=O)C3=C2C=CC=C3)=C1	DB00693	https://go.drugbank.com/drugs/DB00693	approved	-703.341
+Tamsulosin	CCOC1=CC=CC=C1OCCN[C@H](C)CC1=CC(=C(OC)C=C1)S(N)(=O)=O	DB00706	https://go.drugbank.com/drugs/DB00706	approved; investigational	-628.948
+Azatadine	CN1CCC(CC1)=C1C2=CC=CC=C2CCC2=C1N=CC=C2	DB00719	https://go.drugbank.com/drugs/DB00719	approved	-709.073
+Clodronic acid	OP(O)(=O)C(Cl)(Cl)P(O)(O)=O	DB00720	https://go.drugbank.com/drugs/DB00720	approved; investigational; vet_approved	-651.679
+Meclizine	CC1=CC(CN2CCN(CC2)C(C2=CC=CC=C2)C2=CC=C(Cl)C=C2)=CC=C1	DB00737	https://go.drugbank.com/drugs/DB00737	approved	-484.395
+Carbinoxamine	CN(C)CCOC(C1=CC=C(Cl)C=C1)C1=CC=CC=N1	DB00748	https://go.drugbank.com/drugs/DB00748	approved	-623.392
+Epinastine	NC1=NCC2N1C1=CC=CC=C1CC1=CC=CC=C21	DB00751	https://go.drugbank.com/drugs/DB00751	approved; investigational	-610.361
+Methimazole	CN1C=CNC1=S	DB00763	https://go.drugbank.com/drugs/DB00763	approved	-629.549
+Oxcarbazepine	NC(=O)N1C2=CC=CC=C2CC(=O)C2=C1C=CC=C2	DB00776	https://go.drugbank.com/drugs/DB00776	approved	-636.521
+Naproxen	COC1=CC2=C(C=C1)C=C(C=C2)[C@H](C)C(O)=O	DB00788	https://go.drugbank.com/drugs/DB00788	approved; vet_approved	-615.832
+Perindopril	[H][C@]12C[C@H](N(C(=O)[C@H](C)N[C@@H](CCC)C(=O)OCC)[C@@]1([H])CCCC2)C(O)=O	DB00790	https://go.drugbank.com/drugs/DB00790	approved	-635.388
+Dicyclomine	CCN(CC)CCOC(=O)C1(CCCCC1)C1CCCCC1	DB00804	https://go.drugbank.com/drugs/DB00804	approved	-627.926
+Acetazolamide	CC(=O)NC1=NN=C(S1)S(N)(=O)=O	DB00819	https://go.drugbank.com/drugs/DB00819	approved; vet_approved	-682.779
+Tadalafil	[H][C@]12CC3=C(NC4=CC=CC=C34)[C@H](N1C(=O)CN(C)C2=O)C1=CC2=C(OCO2)C=C1	DB00820	https://go.drugbank.com/drugs/DB00820	approved; investigational	-659.474
+Loperamide	CN(C)C(=O)C(CCN1CCC(O)(CC1)C1=CC=C(Cl)C=C1)(C1=CC=CC=C1)C1=CC=CC=C1	DB00836	https://go.drugbank.com/drugs/DB00836	approved	-702.915
+Cysteamine	NCCS	DB00847	https://go.drugbank.com/drugs/DB00847	approved; investigational	-691.292
+Terbinafine	CN(C\C=C\C#CC(C)(C)C)CC1=CC=CC2=CC=CC=C12	DB00857	https://go.drugbank.com/drugs/DB00857	approved; investigational; vet_approved	-638.473
+Vardenafil	CCCC1=NC(C)=C2N1NC(=NC2=O)C1=C(OCC)C=CC(=C1)S(=O)(=O)N1CCN(CC)CC1	DB00862	https://go.drugbank.com/drugs/DB00862	approved	-625.576
+Conivaptan	CC1=NC2=C(CCN(C(=O)C3=CC=C(NC(=O)C4=CC=CC=C4C4=CC=CC=C4)C=C3)C3=CC=CC=C23)N1	DB00872	https://go.drugbank.com/drugs/DB00872	approved; investigational	-617.207
+Bumetanide	CCCCNC1=C(OC2=CC=CC=C2)C(=CC(=C1)C(O)=O)S(N)(=O)=O	DB00887	https://go.drugbank.com/drugs/DB00887	approved	-648.978
+Testolactone	[H][C@@]12CCC3=CC(=O)C=C[C@]3(C)[C@@]1([H])CC[C@]1(C)OC(=O)CC[C@@]21[H]	DB00894	https://go.drugbank.com/drugs/DB00894	approved; investigational	-618.452
+Methdilazine	CN1CCC(CN2C3=CC=CC=C3SC3=CC=CC=C23)C1	DB00902	https://go.drugbank.com/drugs/DB00902	approved	-593.75
+Almotriptan	CN(C)CCC1=CNC2=C1C=C(CS(=O)(=O)N1CCCC1)C=C2	DB00918	https://go.drugbank.com/drugs/DB00918	approved; investigational	-632.212
+Cyclobenzaprine	CN(C)CCC=C1C2=CC=CC=C2C=CC2=CC=CC=C12	DB00924	https://go.drugbank.com/drugs/DB00924	approved	-639.736
+Salicylic acid	OC(=O)C1=CC=CC=C1O	DB00936	https://go.drugbank.com/drugs/DB00936	approved; investigational; vet_approved	-629.625
+Fulvestrant	[H][C@@]12CC[C@H](O)[C@@]1(C)CC[C@]1([H])C3=CC=C(O)C=C3C[C@@H](CCCCCCCCCS(=O)CCCC(F)(F)C(F)(F)F)[C@@]21[H]	DB00947	https://go.drugbank.com/drugs/DB00947	approved; investigational	-537.224
+Fexofenadine	CC(C)(C(O)=O)C1=CC=C(C=C1)C(O)CCCN1CCC(CC1)C(O)(C1=CC=CC=C1)C1=CC=CC=C1	DB00950	https://go.drugbank.com/drugs/DB00950	approved; investigational	-637.01
+Desloratadine	ClC1=CC2=C(C=C1)C(=C1CCNCC1)C1=C(CC2)C=CC=N1	DB00967	https://go.drugbank.com/drugs/DB00967	approved; investigational	-706.771
+Ezetimibe	[H][C@]1(CC[C@H](O)C2=CC=C(F)C=C2)C(=O)N(C2=CC=C(F)C=C2)[C@]1([H])C1=CC=C(O)C=C1	DB00973	https://go.drugbank.com/drugs/DB00973	approved	-635.742
+Ramelteon	CCC(=O)NCC[C@@H]1CCC2=C1C1=C(OCC1)C=C2	DB00980	https://go.drugbank.com/drugs/DB00980	approved; investigational	-631.791
+Methyl aminolevulinate	COC(=O)CCC(=O)CN	DB00992	https://go.drugbank.com/drugs/DB00992	approved; investigational	-657.84
+Cyclacillin	[H][C@]12SC(C)(C)[C@@H](N1C(=O)[C@H]2NC(=O)C1(N)CCCCC1)C(O)=O	DB01000	https://go.drugbank.com/drugs/DB01000	approved	-638.446
+Cinacalcet	C[C@@H](NCCCC1=CC(=CC=C1)C(F)(F)F)C1=CC=CC2=CC=CC=C12	DB01012	https://go.drugbank.com/drugs/DB01012	approved	-633.372
+Amlexanox	CC(C)C1=CC2=C(OC3=NC(N)=C(C=C3C2=O)C(O)=O)C=C1	DB01025	https://go.drugbank.com/drugs/DB01025	approved; investigational; withdrawn	-602.279
+Selegiline	C[C@H](CC1=CC=CC=C1)N(C)CC#C	DB01037	https://go.drugbank.com/drugs/DB01037	approved; investigational; vet_approved	-636.168
+Lubiprostone	[H][C@@]12CC(=O)[C@H](CCCCCCC(O)=O)[C@@]1([H])CC[C@@](O)(O2)C(F)(F)CCCC	DB01046	https://go.drugbank.com/drugs/DB01046	approved; investigational	-596.573
+Echothiophate	CCOP(=O)(OCC)SCC[N+](C)(C)C	DB01057	https://go.drugbank.com/drugs/DB01057	approved	-659.238
+Diphenhydramine	CN(C)CCOC(C1=CC=CC=C1)C1=CC=CC=C1	DB01075	https://go.drugbank.com/drugs/DB01075	approved; investigational	-631.997
+Diphenoxylate	CCOC(=O)C1(CCN(CCC(C#N)(C2=CC=CC=C2)C2=CC=CC=C2)CC1)C1=CC=CC=C1	DB01081	https://go.drugbank.com/drugs/DB01081	approved; illicit	-623.276
+Fluvastatin	CC(C)N1C(\C=C\[C@H](O)C[C@H](O)CC(O)=O)=C(C2=CC=C(F)C=C2)C2=CC=CC=C12	DB01095	https://go.drugbank.com/drugs/DB01095	approved	-582.014
+Pimozide	FC1=CC=C(C=C1)C(CCCN1CCC(CC1)N1C(=O)NC2=CC=CC=C12)C1=CC=C(F)C=C1	DB01100	https://go.drugbank.com/drugs/DB01100	approved	-386.469
+Amiodarone	CCCCC1=C(C(=O)C2=CC(I)=C(OCCN(CC)CC)C(I)=C2)C2=C(O1)C=CC=C2	DB01118	https://go.drugbank.com/drugs/DB01118	approved; investigational	-636.36
+Anisindione	COC1=CC=C(C=C1)C1C(=O)C2=CC=CC=C2C1=O	DB01125	https://go.drugbank.com/drugs/DB01125	approved	-638.16
+Carvedilol	COC1=CC=CC=C1OCCNCC(O)COC1=CC=CC2=C1C1=CC=CC=C1N2	DB01136	https://go.drugbank.com/drugs/DB01136	approved; investigational	-625.783
+Amifostine	NCCCNCCSP(O)(O)=O	DB01143	https://go.drugbank.com/drugs/DB01143	approved; investigational	-625.658
+Bretylium	CC[N+](C)(C)CC1=CC=CC=C1Br	DB01158	https://go.drugbank.com/drugs/DB01158	approved	-611.655
+Cilostazol	O=C1CCC2=C(N1)C=CC(OCCCCC1=NN=NN1C1CCCCC1)=C2	DB01166	https://go.drugbank.com/drugs/DB01166	approved; investigational	-633.133
+Podofilox	[H][C@]12COC(=O)[C@]1([H])[C@H](C1=CC(OC)=C(OC)C(OC)=C1)C1=CC3=C(OCO3)C=C1[C@@H]2O	DB01179	https://go.drugbank.com/drugs/DB01179	approved	-623.37
+Ciclopirox	CC1=CC(=O)N(O)C(=C1)C1CCCCC1	DB01188	https://go.drugbank.com/drugs/DB01188	approved; investigational	-631.584
+Acebutolol	CCCC(=O)NC1=CC=C(OCC(O)CNC(C)C)C(=C1)C(C)=O	DB01193	https://go.drugbank.com/drugs/DB01193	approved; investigational	-565.262
+Dezocine	[H][C@@]12CC3=CC=C(O)C=C3[C@@](C)(CCCCC1)[C@H]2N	DB01209	https://go.drugbank.com/drugs/DB01209	approved; investigational	-704.519
+Anastrozole	CC(C)(C#N)C1=CC(=CC(CN2C=NC=N2)=C1)C(C)(C)C#N	DB01217	https://go.drugbank.com/drugs/DB01217	approved; investigational	-637.156
+Levacetylmethadol	CC[C@H](OC(C)=O)C(C[C@H](C)N(C)C)(C1=CC=CC=C1)C1=CC=CC=C1	DB01227	https://go.drugbank.com/drugs/DB01227	approved; investigational	-633.203
+Bromodiphenhydramine	CN(C)CCOC(C1=CC=CC=C1)C1=CC=C(Br)C=C1	DB01237	https://go.drugbank.com/drugs/DB01237	approved	-585.165
+Bepridil	CC(C)COCC(CN(CC1=CC=CC=C1)C1=CC=CC=C1)N1CCCC1	DB01244	https://go.drugbank.com/drugs/DB01244	approved; withdrawn	-558.23
+Lisdexamfetamine	C[C@@H](CC1=CC=CC=C1)NC(=O)[C@@H](N)CCCCN	DB01255	https://go.drugbank.com/drugs/DB01255	approved; investigational	-648.554
+Paliperidone	CC1=C(CCN2CCC(CC2)C2=NOC3=C2C=CC(F)=C3)C(=O)N2CCCC(O)C2=N1	DB01267	https://go.drugbank.com/drugs/DB01267	approved	-628.702
+Arformoterol	COC1=CC=C(C[C@@H](C)NC[C@H](O)C2=CC(NC=O)=C(O)C=C2)C=C1	DB01274	https://go.drugbank.com/drugs/DB01274	approved; investigational	-713.484
+Lumiracoxib	CC1=CC=C(NC2=C(Cl)C=CC=C2F)C(CC(O)=O)=C1	DB01283	https://go.drugbank.com/drugs/DB01283	approved; investigational	-690.048
+Sulfadoxine	COC1=NC=NC(NS(=O)(=O)C2=CC=C(N)C=C2)=C1OC	DB01299	https://go.drugbank.com/drugs/DB01299	approved; investigational	-233.071
+Fosamprenavir	CC(C)CN(C[C@@H](OP(O)(O)=O)[C@H](CC1=CC=CC=C1)NC(=O)O[C@H]1CCOC1)S(=O)(=O)C1=CC=C(N)C=C1	DB01319	https://go.drugbank.com/drugs/DB01319	approved	-631.9
+Cefazolin	[H][C@]12SCC(CSC3=NN=C(C)S3)=C(N1C(=O)[C@H]2NC(=O)CN1C=NN=N1)C(O)=O	DB01327	https://go.drugbank.com/drugs/DB01327	approved	-630.838
+Metocurine	[H][C@@]12CC3=CC=C(OC4=C5C(CC[N+](C)(C)[C@]5([H])CC5=CC(OC6=C(OC)C=C(CC[N+]1(C)C)C2=C6)=C(OC)C=C5)=CC(OC)=C4OC)C=C3	DB01336	https://go.drugbank.com/drugs/DB01336	approved	-631.76
+Cilazapril	CCOC(=O)[C@H](CCC1=CC=CC=C1)N[C@H]1CCCN2CCC[C@H](N2C1=O)C(O)=O	DB01340	https://go.drugbank.com/drugs/DB01340	approved	-708.319
+Amobarbital	CCC1(CCC(C)C)C(=O)NC(=O)NC1=O	DB01351	https://go.drugbank.com/drugs/DB01351	approved; illicit	-632.744
+Rasagiline	C#CCN[C@@H]1CCC2=CC=CC=C12	DB01367	https://go.drugbank.com/drugs/DB01367	approved	-659.595
+Cortisone acetate	[H][C@@]12CC[C@](O)(C(=O)COC(C)=O)[C@@]1(C)CC(=O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C	DB01380	https://go.drugbank.com/drugs/DB01380	approved; investigational	-628.043
+Colchicine	COC1=CC2=C(C(OC)=C1OC)C1=CC=C(OC)C(=O)C=C1C(CC2)NC(C)=O	DB01394	https://go.drugbank.com/drugs/DB01394	approved	-501.04
+Clenbuterol	CC(C)(C)NCC(O)C1=CC(Cl)=C(N)C(Cl)=C1	DB01407	https://go.drugbank.com/drugs/DB01407	approved; investigational; vet_approved	-649.204
+Ceftibuten	[H][C@]12SCC=C(N1C(=O)[C@H]2NC(=O)C(=C/CC(O)=O)\C1=CSC(N)=N1)C(O)=O	DB01415	https://go.drugbank.com/drugs/DB01415	approved; investigational	-701.688
+Paromomycin	NC[C@@H]1O[C@H](O[C@@H]2[C@@H](CO)O[C@@H](O[C@@H]3[C@@H](O)[C@H](N)C[C@H](N)[C@H]3O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3N)[C@@H]2O)[C@H](N)[C@@H](O)[C@@H]1O	DB01421	https://go.drugbank.com/drugs/DB01421	approved; investigational	-583.418
+Antipyrine	CN1N(C(=O)C=C1C)C1=CC=CC=C1	DB01435	https://go.drugbank.com/drugs/DB01435	approved; investigational	-569.357
+gamma-Hydroxybutyric acid	OCCCC(O)=O	DB01440	https://go.drugbank.com/drugs/DB01440	approved; illicit; investigational	-651.457
+Diamorphine	[H][C@@]12C=C[C@H](OC(C)=O)[C@@H]3OC4=C(OC(C)=O)C=CC5=C4[C@]13CCN(C)[C@@H]2C5	DB01452	https://go.drugbank.com/drugs/DB01452	approved; illicit; investigational	-722.874
+Difenoxin	OC(=O)C1(CCN(CCC(C#N)(C2=CC=CC=C2)C2=CC=CC=C2)CC1)C1=CC=CC=C1	DB01501	https://go.drugbank.com/drugs/DB01501	approved; illicit	-632.274
+Flunitrazepam	CN1C2=C(C=C(C=C2)[N+]([O-])=O)C(=NCC1=O)C1=CC=CC=C1F	DB01544	https://go.drugbank.com/drugs/DB01544	approved; illicit	-660.47
+Bromazepam	BrC1=CC2=C(NC(=O)CN=C2C2=CC=CC=N2)C=C1	DB01558	https://go.drugbank.com/drugs/DB01558	approved; illicit; investigational	-632.045
+Chloral hydrate	OC(O)C(Cl)(Cl)Cl	DB01563	https://go.drugbank.com/drugs/DB01563	approved; illicit; investigational; vet_approved	-699.638
+Metamfetamine	CN[C@@H](C)CC1=CC=CC=C1	DB01577	https://go.drugbank.com/drugs/DB01577	approved; illicit	-635.07
+Ursodeoxycholic acid	[H][C@@]1(CC[C@@]2([H])[C@]3([H])[C@@H](O)C[C@]4([H])C[C@H](O)CC[C@]4(C)[C@@]3([H])CC[C@]12C)[C@H](C)CCC(O)=O	DB01586	https://go.drugbank.com/drugs/DB01586	approved; investigational	-645.741
+Imipenem	[H][C@]12CC(SCC\N=C\N)=C(N1C(=O)[C@]2([H])[C@@H](C)O)C(O)=O	DB01598	https://go.drugbank.com/drugs/DB01598	approved	-693.816
+Pivmecillinam	[H]C(=N[C@@H]1C(=O)N2[C@@H](C(=O)OCOC(=O)C(C)(C)C)C(C)(C)S[C@]12[H])N1CCCCCC1	DB01605	https://go.drugbank.com/drugs/DB01605	approved	-528.771
+Amyl Nitrite	CCCCCON=O	DB01612	https://go.drugbank.com/drugs/DB01612	approved	-694.503
+Etoricoxib	CC1=NC=C(C=C1)C1=C(C=C(Cl)C=N1)C1=CC=C(C=C1)S(C)(=O)=O	DB01628	https://go.drugbank.com/drugs/DB01628	approved; investigational	-634.285
+Sorbitol	OC[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO	DB01638	https://go.drugbank.com/drugs/DB01638	approved	-635.332
+Roflumilast	FC(F)OC1=C(OCC2CC2)C=C(C=C1)C(=O)NC1=C(Cl)C=NC=C1Cl	DB01656	https://go.drugbank.com/drugs/DB01656	approved	-658.217
+Rutin	C[C@@H]1O[C@@H](OC[C@H]2O[C@@H](OC3=C(OC4=CC(O)=CC(O)=C4C3=O)C3=CC(O)=C(O)C=C3)[C@H](O)[C@@H](O)[C@@H]2O)[C@H](O)[C@H](O)[C@H]1O	DB01698	https://go.drugbank.com/drugs/DB01698	approved; experimental; investigational	-440.42
+Prasterone	[H][C@@]12CCC(=O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CC=C2C[C@@]([H])(O)CC[C@]12C	DB01708	https://go.drugbank.com/drugs/DB01708	approved; investigational; nutraceutical	-634.653
+Cetrimonium	CCCCCCCCCCCCCCCC[N+](C)(C)C	DB01718	https://go.drugbank.com/drugs/DB01718	approved	-666.756
+Camphor	[H][C@@]12CC[C@@](C)(C(=O)C1)C2(C)C	DB01744	https://go.drugbank.com/drugs/DB01744	approved	-705.299
+Dalfopristin	CCN(CC)CCS(=O)(=O)[C@@H]1CCN2[C@H]1C(=O)O[C@H](C(C)C)[C@H](C)\C=C\C(=O)NC\C=C\C(\C)=C\[C@@H](O)CC(=O)CC1=NC(=CO1)C2=O	DB01764	https://go.drugbank.com/drugs/DB01764	approved	144.943
+Pantothenic acid	CC(C)(CO)[C@@H](O)C(=O)NCCC(O)=O	DB01783	https://go.drugbank.com/drugs/DB01783	approved; nutraceutical; vet_approved	-631.286
+Propylene glycol	CC(O)CO	DB01839	https://go.drugbank.com/drugs/DB01839	approved; investigational	-633.521
+D-glucose	[H][C@@](O)(CO)[C@@]([H])(O)[C@]([H])(O)[C@@]([H])(O)C=O	DB01914	https://go.drugbank.com/drugs/DB01914	approved; investigational; vet_approved	-649.071
+Taurine	NCCS(O)(=O)=O	DB01956	https://go.drugbank.com/drugs/DB01956	approved; nutraceutical	-634.34
+Cocarboxylase	CC1=C(CCO[P@](O)(=O)O[P@](O)([O-])=O)SC=[N+]1CC1=CN=C(C)N=C1N	DB01987	https://go.drugbank.com/drugs/DB01987	approved; experimental	-559.742
+Flufenamic acid	OC(=O)C1=CC=CC=C1NC1=CC(=CC=C1)C(F)(F)F	DB02266	https://go.drugbank.com/drugs/DB02266	approved	-633.465
+Calcipotriol	O[C@H](\C=C\[C@@H](C)[C@@]1([H])CC[C@@]2([H])\C(CCC[C@]12C)=C\C=C1\C[C@@H](O)C[C@H](O)C1=C)C1CC1	DB02300	https://go.drugbank.com/drugs/DB02300	approved	-564.349
+Isopropyl alcohol	CC(C)O	DB02325	https://go.drugbank.com/drugs/DB02325	approved; investigational	-662.779
+Aminobenzoic acid	NC1=CC=C(C=C1)C(O)=O	DB02362	https://go.drugbank.com/drugs/DB02362	approved; experimental	-718.993
+Thymol	CC(C)C1=C(O)C=C(C)C=C1	DB02513	https://go.drugbank.com/drugs/DB02513	approved	-633.616
+gamma-Aminobutyric acid	NCCCC(O)=O	DB02530	https://go.drugbank.com/drugs/DB02530	approved; investigational	-645.09
+Vorinostat	ONC(=O)CCCCCCC(=O)NC1=CC=CC=C1	DB02546	https://go.drugbank.com/drugs/DB02546	approved; investigational	-700.222
+Cholic Acid	[H][C@@](C)(CCC(O)=O)[C@@]1([H])CC[C@@]2([H])[C@]3([H])[C@]([H])(O)C[C@]4([H])C[C@]([H])(O)CC[C@]4(C)[C@@]3([H])C[C@]([H])(O)[C@]12C	DB02659	https://go.drugbank.com/drugs/DB02659	approved	-632.887
+Fusidic acid	[H][C@@]12C[C@@H](O)[C@@]3([H])[C@@]4(C)CC[C@@H](O)[C@@H](C)[C@]4([H])CC[C@]3(C)[C@@]1(C)C[C@H](OC(C)=O)\C2=C(\CCC=C(C)C)C(O)=O	DB02703	https://go.drugbank.com/drugs/DB02703	approved; investigational	-683.687
+Sucrose	OC[C@H]1O[C@@](CO)(O[C@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)[C@@H](O)[C@@H]1O	DB02772	https://go.drugbank.com/drugs/DB02772	approved; experimental; investigational	-526.046
+Pregnenolone	[H][C@@]12CC[C@H](C(C)=O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CC=C2C[C@@H](O)CC[C@]12C	DB02789	https://go.drugbank.com/drugs/DB02789	approved; experimental	-637.344
+D-Methionine	CSCC[C@@H](N)C(O)=O	DB02893	https://go.drugbank.com/drugs/DB02893	approved; experimental; investigational	-632.42
+Piretanide	NS(=O)(=O)C1=CC(=CC(N2CCCC2)=C1OC1=CC=CC=C1)C(O)=O	DB02925	https://go.drugbank.com/drugs/DB02925	approved	-628.758
+Oxitriptan	N[C@@H](CC1=CNC2=C1C=C(O)C=C2)C(O)=O	DB02959	https://go.drugbank.com/drugs/DB02959	approved; investigational; nutraceutical	-645.433
+Lauric acid	CCCCCCCCCCCC(O)=O	DB03017	https://go.drugbank.com/drugs/DB03017	approved; experimental	-616.882
+Glycolic acid	OCC(O)=O	DB03085	https://go.drugbank.com/drugs/DB03085	approved; investigational	-653.161
+Acetylcholine	CC(=O)OCC[N+](C)(C)C	DB03128	https://go.drugbank.com/drugs/DB03128	approved; investigational	-657.396
+Acetic acid	CC(O)=O	DB03166	https://go.drugbank.com/drugs/DB03166	approved	-694.718
+Propyl alcohol	CCCO	DB03175	https://go.drugbank.com/drugs/DB03175	approved	-636.502
+Oteracil	OC(=O)C1=NC(=O)NC(=O)N1	DB03209	https://go.drugbank.com/drugs/DB03209	approved	-631.686
+Flavin mononucleotide	CC1=CC2=C(C=C1C)N(C[C@H](O)[C@H](O)[C@H](O)COP(O)(O)=O)C1=NC(=O)NC(=O)C1=N2	DB03247	https://go.drugbank.com/drugs/DB03247	approved; investigational	-646.636
+Phenol	OC1=CC=CC=C1	DB03255	https://go.drugbank.com/drugs/DB03255	approved; experimental	-655.48
+Brivudine	OC[C@H]1O[C@H](C[C@@H]1O)N1C=C(\C=C\Br)C(=O)NC1=O	DB03312	https://go.drugbank.com/drugs/DB03312	approved; investigational	-562.639
+Oxyphenbutazone	CCCCC1C(=O)N(N(C1=O)C1=CC=C(O)C=C1)C1=CC=CC=C1	DB03585	https://go.drugbank.com/drugs/DB03585	approved; withdrawn	-619.621
+Deoxycholic acid	[H][C@@]12CC[C@H]([C@H](C)CCC(O)=O)[C@@]1(C)[C@@H](O)C[C@@]1([H])[C@@]2([H])CC[C@]2([H])C[C@H](O)CC[C@]12C	DB03619	https://go.drugbank.com/drugs/DB03619	approved	-572.73
+Doconexent	CC\C=C/C\C=C/C\C=C/C\C=C/C\C=C/C\C=C/CCC(O)=O	DB03756	https://go.drugbank.com/drugs/DB03756	approved; investigational	-688.86
+Propanoic acid	[H]CCC(O)=O	DB03766	https://go.drugbank.com/drugs/DB03766	approved; vet_approved	-622.401
+Benzoic acid	OC(=O)C1=CC=CC=C1	DB03793	https://go.drugbank.com/drugs/DB03793	approved; investigational	-635.267
+Hexamidine	NC(=N)C1=CC=C(OCCCCCCOC2=CC=C(C=C2)C(N)=N)C=C1	DB03808	https://go.drugbank.com/drugs/DB03808	approved; experimental	-636.653
+Urea	NC(N)=O	DB03904	https://go.drugbank.com/drugs/DB03904	approved; investigational	-629.157
+D-Serine	N[C@H](CO)C(O)=O	DB03929	https://go.drugbank.com/drugs/DB03929	approved; experimental	-654.254
+Ergosterol	[H]\C(=C(\[H])[C@@]([H])(C)[C@@]1([H])CC[C@@]2([H])C3=CC=C4C[C@@]([H])(O)CC[C@]4(C)[C@@]3([H])CC[C@]12C)[C@]([H])(C)C(C)C	DB04038	https://go.drugbank.com/drugs/DB04038	approved; experimental	-517.043
+Berberine	COC1=CC=C2C=C3C4=CC5=C(OCO5)C=C4CC[N+]3=CC2=C1OC	DB04115	https://go.drugbank.com/drugs/DB04115	approved; investigational	-708.093
+Pyrophosphoric acid	OP(O)(=O)OP(O)(O)=O	DB04160	https://go.drugbank.com/drugs/DB04160	approved; experimental	-651.574
+Fructose	OC[C@@H]1O[C@@](O)(CO)[C@H](O)[C@H]1O	DB04173	https://go.drugbank.com/drugs/DB04173	approved; experimental	-706.568
+Dequalinium	CC1=CC(N)=C2C=CC=CC2=[N+]1CCCCCCCCCC[N+]1=C(C)C=C(N)C2=C1C=CC=C2	DB04209	https://go.drugbank.com/drugs/DB04209	approved; investigational	-578.428
+Oleic Acid	CCCCCCCC\C=C\CCCCCCCC(O)=O	DB04224	https://go.drugbank.com/drugs/DB04224	approved; investigational; vet_approved	-633.619
+Citric acid	OC(=O)CC(O)(CC(O)=O)C(O)=O	DB04272	https://go.drugbank.com/drugs/DB04272	approved; nutraceutical; vet_approved	-629.866
+Carbocisteine	N[C@@H](CSCC(O)=O)C(O)=O	DB04339	https://go.drugbank.com/drugs/DB04339	approved; investigational	-620.61
+Taurocholic acid	[H][C@@]1(CC[C@@]2([H])[C@]3([H])[C@H](O)C[C@]4([H])C[C@H](O)CC[C@]4(C)[C@@]3([H])C[C@H](O)[C@]12C)[C@H](C)CCC(=O)NCCS(O)(=O)=O	DB04348	https://go.drugbank.com/drugs/DB04348	approved; experimental	-620.007
+Lactic acid	CC(O)C(O)=O	DB04398	https://go.drugbank.com/drugs/DB04398	approved; vet_approved	-631.448
+Lactose	OC[C@H]1O[C@@H](O[C@H]2[C@H](O)[C@@H](O)C(O)O[C@@H]2CO)[C@H](O)[C@@H](O)[C@H]1O	DB04465	https://go.drugbank.com/drugs/DB04465	approved; experimental; investigational	-628.089
+Cholesterol	[H][C@@]1(CC[C@@]2([H])[C@]3([H])CC=C4C[C@@H](O)CC[C@]4(C)[C@@]3([H])CC[C@]12C)[C@H](C)CCCC(C)C	DB04540	https://go.drugbank.com/drugs/DB04540	approved; investigational	-546.701
+Gluconolactone	OC[C@H]1OC(=O)[C@H](O)[C@@H](O)[C@@H]1O	DB04564	https://go.drugbank.com/drugs/DB04564	approved; experimental	-626.482
+Estrone sulfate	[H][C@@]12CCC(=O)[C@@]1(C)CC[C@]1([H])C3=C(CC[C@@]21[H])C=C(OS(O)(=O)=O)C=C3	DB04574	https://go.drugbank.com/drugs/DB04574	approved	-617.847
+Carboxin	CC1=C(SCCO1)C(=O)NC1=CC=CC=C1	DB04657	https://go.drugbank.com/drugs/DB04657	approved; experimental	-634.486
+Hesperidin	COC1=CC=C(C=C1O)[C@@H]1CC(=O)C2=C(O1)C=C(O[C@@H]1O[C@H](CO[C@@H]3O[C@@H](C)[C@H](O)[C@@H](O)[C@H]3O)[C@@H](O)[C@H](O)[C@H]1O)C=C2O	DB04703	https://go.drugbank.com/drugs/DB04703	approved; investigational	-578.921
+Iodipamide	OC(=O)C1=C(I)C(NC(=O)CCCCC(=O)NC2=C(I)C=C(I)C(C(O)=O)=C2I)=C(I)C=C1I	DB04711	https://go.drugbank.com/drugs/DB04711	approved	-500.883
+Nimesulide	CS(=O)(=O)NC1=C(OC2=CC=CC=C2)C=C(C=C1)[N+]([O-])=O	DB04743	https://go.drugbank.com/drugs/DB04743	approved; investigational; withdrawn	-571.925
+Bifonazole	C1=CN(C=N1)C(C1=CC=CC=C1)C1=CC=C(C=C1)C1=CC=CC=C1	DB04794	https://go.drugbank.com/drugs/DB04794	approved; investigational	-632.391
+Bithionol	OC1=C(SC2=C(O)C(Cl)=CC(Cl)=C2)C=C(Cl)C=C1Cl	DB04813	https://go.drugbank.com/drugs/DB04813	approved; withdrawn	-652.316
+Thenalidine	CN1CCC(CC1)N(CC1=CC=CS1)C1=CC=CC=C1	DB04826	https://go.drugbank.com/drugs/DB04826	approved; withdrawn	-634.384
+Clofedanol	CN(C)CCC(O)(C1=CC=CC=C1)C1=CC=CC=C1Cl	DB04837	https://go.drugbank.com/drugs/DB04837	approved; withdrawn	-628.363
+Celiprolol	CCN(CC)C(=O)NC1=CC=C(OCC(O)CNC(C)(C)C)C(=C1)C(C)=O	DB04846	https://go.drugbank.com/drugs/DB04846	approved; investigational	-628.422
+Febuxostat	CC(C)COC1=C(C=C(C=C1)C1=NC(C)=C(S1)C(O)=O)C#N	DB04854	https://go.drugbank.com/drugs/DB04854	approved	-527.006
+Omacetaxine mepesuccinate	[H][C@@]1(OC(=O)[C@@](O)(CCCC(C)(C)O)CC(=O)OC)C(OC)=C[C@]23CCCN2CCC2=CC4=C(OCO4)C=C2[C@]13[H]	DB04865	https://go.drugbank.com/drugs/DB04865	approved; investigational	-224.376
+Lorcaserin	C[C@H]1CNCCC2=CC=C(Cl)C=C12	DB04871	https://go.drugbank.com/drugs/DB04871	approved	-636.665
+Enoximone	CSC1=CC=C(C=C1)C(=O)C1=C(C)NC(=O)N1	DB04880	https://go.drugbank.com/drugs/DB04880	approved; investigational	-634.931
+Milnacipran	CCN(CC)C(=O)C1(CC1CN)C1=CC=CC=C1	DB04896	https://go.drugbank.com/drugs/DB04896	approved; investigational	-655.841
+Flibanserin	FC(F)(F)C1=CC(=CC=C1)N1CCN(CCN2C(=O)NC3=CC=CC=C23)CC1	DB04908	https://go.drugbank.com/drugs/DB04908	approved; investigational	-719.882
+Clevidipine	CCCC(=O)OCOC(=O)C1=C(C)NC(C)=C(C1C1=CC=CC(Cl)=C1Cl)C(=O)OC	DB04920	https://go.drugbank.com/drugs/DB04920	approved; investigational	-629.186
+Ospemifene	OCCOC1=CC=C(C=C1)C(=C(\CCCl)C1=CC=CC=C1)\C1=CC=CC=C1	DB04938	https://go.drugbank.com/drugs/DB04938	approved; investigational	-574.092
+Lofexidine	CC(OC1=C(Cl)C=CC=C1Cl)C1=NCCN1	DB04948	https://go.drugbank.com/drugs/DB04948	approved; investigational	-643.996
+Ezogabine	CCOC(=O)NC1=C(N)C=C(NCC2=CC=C(F)C=C2)C=C1	DB04953	https://go.drugbank.com/drugs/DB04953	approved; investigational	-636.434
+Ataluren	OC(=O)C1=CC=CC(=C1)C1=NOC(=N1)C1=CC=CC=C1F	DB05016	https://go.drugbank.com/drugs/DB05016	approved; investigational	-627.323
+Indacaterol	CCC1=C(CC)C=C2CC(CC2=C1)NC[C@H](O)C1=C2C=CC(=O)NC2=C(O)C=C1	DB05039	https://go.drugbank.com/drugs/DB05039	approved	-698.521
+Erdosteine	OC(=O)CSCC(=O)NC1CCSC1=O	DB05057	https://go.drugbank.com/drugs/DB05057	approved; investigational	-644.641
+Pretomanid	[O-][N+](=O)C1=CN2C[C@@H](COC2=N1)OCC1=CC=C(OC(F)(F)F)C=C1	DB05154	https://go.drugbank.com/drugs/DB05154	approved	-622.901
+Cobimetinib	OC1(CN(C1)C(=O)C1=C(NC2=C(F)C=C(I)C=C2)C(F)=C(F)C=C1)[C@@H]1CCCCN1	DB05239	https://go.drugbank.com/drugs/DB05239	approved; investigational	-630.372
+Methsuximide	CN1C(=O)CC(C)(C1=O)C1=CC=CC=C1	DB05246	https://go.drugbank.com/drugs/DB05246	approved	-666.091
+Rotigotine	CCCN(CCC1=CC=CS1)[C@H]1CCC2=C(O)C=CC=C2C1	DB05271	https://go.drugbank.com/drugs/DB05271	approved	-637.109
+Vandetanib	COC1=C(OCC2CCN(C)CC2)C=C2N=CN=C(NC3=C(F)C=C(Br)C=C3)C2=C1	DB05294	https://go.drugbank.com/drugs/DB05294	approved	-539.589
+Pimavanserin	CC(C)COC1=CC=C(CNC(=O)N(CC2=CC=C(F)C=C2)C2CCN(C)CC2)C=C1	DB05316	https://go.drugbank.com/drugs/DB05316	approved; investigational	-624.675
+Dexlansoprazole	CC1=C(OCC(F)(F)F)C=CN=C1C[S@@](=O)C1=NC2=CC=CC=C2N1	DB05351	https://go.drugbank.com/drugs/DB05351	approved; investigational	-605.074
+Histamine	NCCC1=CNC=N1	DB05381	https://go.drugbank.com/drugs/DB05381	approved; investigational	-624.451
+Brivaracetam	CCC[C@H]1CN([C@@H](CC)C(N)=O)C(=O)C1	DB05541	https://go.drugbank.com/drugs/DB05541	approved; investigational	-657.726
+Apremilast	CCOC1=CC(=CC=C1OC)[C@@H](CS(C)(=O)=O)N1C(=O)C2=CC=CC(NC(C)=O)=C2C1=O	DB05676	https://go.drugbank.com/drugs/DB05676	approved; investigational	-618.335
+Abiraterone	[H][C@@]12CC=C(C3=CC=CN=C3)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CC=C2C[C@@H](O)CC[C@]12C	DB05812	https://go.drugbank.com/drugs/DB05812	approved	-632.821
+Obeticholic acid	[H][C@@]1(CC[C@@]2([H])[C@]3([H])[C@H](O)[C@H](CC)[C@]4([H])C[C@H](O)CC[C@]4(C)[C@@]3([H])CC[C@]12C)[C@H](C)CCC(O)=O	DB05990	https://go.drugbank.com/drugs/DB05990	approved	-586.017
+Lumateperone	[H][C@]12CCN(CCCC(=O)C3=CC=C(F)C=C3)C[C@@]1([H])C1=CC=CC3=C1N2CCN3C	DB06077	https://go.drugbank.com/drugs/DB06077	approved; investigational	-708.366
+Cenobamate	NC(=O)O[C@@H](CN1N=CN=N1)C1=C(Cl)C=CC=C1	DB06119	https://go.drugbank.com/drugs/DB06119	approved; investigational	-652.002
+Tirbanibulin	O=C(CC1=CC=C(C=N1)C1=CC=C(OCCN2CCOCC2)C=C1)NCC1=CC=CC=C1	DB06137	https://go.drugbank.com/drugs/DB06137	approved; investigational	-532.549
+Mianserin	CN1CCN2C(C1)C1=CC=CC=C1CC1=CC=CC=C21	DB06148	https://go.drugbank.com/drugs/DB06148	approved; investigational	-603.736
+Rimonabant	CC1=C(N(N=C1C(=O)NN1CCCCC1)C1=C(Cl)C=C(Cl)C=C1)C1=CC=C(Cl)C=C1	DB06155	https://go.drugbank.com/drugs/DB06155	approved; investigational	-476.571
+Noscapine	[H][C@@]1(OC(=O)C2=C1C=CC(OC)=C2OC)[C@]1([H])N(C)CCC2=CC3=C(OCO3)C(OC)=C12	DB06174	https://go.drugbank.com/drugs/DB06174	approved; investigational	-595.001
+Pixantrone	NCCNC1=CC=C(NCCN)C2=C1C(=O)C1=C(C=NC=C1)C2=O	DB06193	https://go.drugbank.com/drugs/DB06193	approved; investigational	-634.985
+Alogliptin	CN1C(=O)C=C(N2CCC[C@@H](N)C2)N(CC2=C(C=CC=C2)C#N)C1=O	DB06203	https://go.drugbank.com/drugs/DB06203	approved	-528.147
+Regadenoson	CNC(=O)C1=CN(N=C1)C1=NC2=C(N=CN2[C@@H]2O[C@H](CO)[C@@H](O)[C@H]2O)C(N)=N1	DB06213	https://go.drugbank.com/drugs/DB06213	approved; investigational	-651.193
+Rivaroxaban	[H][C@]1(CNC(=O)C2=CC=C(Cl)S2)CN(C(=O)O1)C1=CC=C(C=C1)N1CCOCC1=O	DB06228	https://go.drugbank.com/drugs/DB06228	approved	-638.321
+Nalmefene	[H][C@@]12OC3=C(O)C=CC4=C3[C@@]11CCN(CC3CC3)[C@]([H])(C4)[C@]1(O)CCC2=C	DB06230	https://go.drugbank.com/drugs/DB06230	approved; investigational; withdrawn	-694.669
+Arzoxifene	COC1=CC=C(C=C1)C1=C(OC2=CC=C(OCCN3CCCCC3)C=C2)C2=C(S1)C=C(O)C=C2	DB06249	https://go.drugbank.com/drugs/DB06249	approved; investigational	-535.485
+Sitaxentan	CC1=NOC(NS(=O)(=O)C2=C(SC=C2)C(=O)CC2=CC3=C(OCO3)C=C2C)=C1Cl	DB06268	https://go.drugbank.com/drugs/DB06268	approved; investigational; withdrawn	-560.946
+Alvimopan	C[C@H]1CN(C[C@H](CC2=CC=CC=C2)C(=O)NCC(O)=O)CC[C@@]1(C)C1=CC(O)=CC=C1	DB06274	https://go.drugbank.com/drugs/DB06274	approved; investigational	-414.781
+Amisulpride	CCN1CCCC1CNC(=O)C1=CC(=C(N)C=C1OC)S(=O)(=O)CC	DB06288	https://go.drugbank.com/drugs/DB06288	approved; investigational	-629.416
+Dapagliflozin	CCOC1=CC=C(CC2=C(Cl)C=CC(=C2)[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)C=C1	DB06292	https://go.drugbank.com/drugs/DB06292	approved	-632.1
+Saxagliptin	[H][C@@]12C[C@]1([H])N([C@@H](C2)C#N)C(=O)[C@@H](N)C12CC3CC(CC(O)(C3)C1)C2	DB06335	https://go.drugbank.com/drugs/DB06335	approved	-625.578
+Bazedoxifene	CC1=C(N(CC2=CC=C(OCCN3CCCCCC3)C=C2)C2=C1C=C(O)C=C2)C1=CC=C(O)C=C1	DB06401	https://go.drugbank.com/drugs/DB06401	approved; investigational	-506.706
+Etravirine	CC1=CC(=CC(C)=C1OC1=C(Br)C(N)=NC(NC2=CC=C(C=C2)C#N)=N1)C#N	DB06414	https://go.drugbank.com/drugs/DB06414	approved	-633.779
+Lonafarnib	NC(=O)N1CCC(CC(=O)N2CCC(CC2)[C@H]2C3=C(CCC4=C2C(Br)=CC(Cl)=C4)C=C(Br)C=N3)CC1	DB06448	https://go.drugbank.com/drugs/DB06448	approved; investigational	-656.254
+Prucalopride	COCCCN1CCC(CC1)NC(=O)C1=C2OCCC2=C(N)C(Cl)=C1	DB06480	https://go.drugbank.com/drugs/DB06480	approved	-624.462
+Pazopanib	CN(C1=CC2=NN(C)C(C)=C2C=C1)C1=CC=NC(NC2=CC=C(C)C(=C2)S(N)(=O)=O)=N1	DB06589	https://go.drugbank.com/drugs/DB06589	approved	-590.197
+Agomelatine	COC1=CC2=C(C=CC=C2CCNC(C)=O)C=C1	DB06594	https://go.drugbank.com/drugs/DB06594	approved; investigational	-630.769
+Apixaban	COC1=CC=C(C=C1)N1N=C(C(N)=O)C2=C1C(=O)N(CC2)C1=CC=C(C=C1)N1CCCCC1=O	DB06605	https://go.drugbank.com/drugs/DB06605	approved	-628.006
+Peramivir	[H][C@@]1([C@@H](NC(C)=O)C(CC)CC)[C@H](O)[C@H](C[C@H]1NC(N)=N)C(O)=O	DB06614	https://go.drugbank.com/drugs/DB06614	approved; investigational	-707.561
+Axitinib	CNC(=O)C1=C(SC2=CC=C3C(NN=C3\C=C\C3=CC=CC=N3)=C2)C=CC=C1	DB06626	https://go.drugbank.com/drugs/DB06626	approved; investigational	-474.749
+Dalfampridine	NC1=CC=NC=C1	DB06637	https://go.drugbank.com/drugs/DB06637	approved	-663.089
+Safinamide	C[C@H](NCC1=CC=C(OCC2=CC(F)=CC=C2)C=C1)C(N)=O	DB06654	https://go.drugbank.com/drugs/DB06654	approved; investigational	-562.25
+Vilazodone	NC(=O)C1=CC2=CC(=CC=C2O1)N1CCN(CCCCC2=CNC3=C2C=C(C=C3)C#N)CC1	DB06684	https://go.drugbank.com/drugs/DB06684	approved	-420.001
+Betahistine	CNCCC1=CC=CC=N1	DB06698	https://go.drugbank.com/drugs/DB06698	approved; investigational	-708.711
+Desvenlafaxine	CN(C)CC(C1=CC=C(O)C=C1)C1(O)CCCCC1	DB06700	https://go.drugbank.com/drugs/DB06700	approved; investigational	-717.411
+Fosaprepitant	C[C@@H](O[C@H]1OCCN(CC2=NC(=O)N(N2)P(O)(O)=O)[C@H]1C1=CC=C(F)C=C1)C1=CC(=CC(=C1)C(F)(F)F)C(F)(F)F	DB06717	https://go.drugbank.com/drugs/DB06717	approved	-601.708
+Sulfaphenazole	NC1=CC=C(C=C1)S(=O)(=O)NC1=CC=NN1C1=CC=CC=C1	DB06729	https://go.drugbank.com/drugs/DB06729	approved	-630.817
+Aceclofenac	OC(=O)COC(=O)CC1=CC=CC=C1NC1=C(Cl)C=CC=C1Cl	DB06736	https://go.drugbank.com/drugs/DB06736	approved; investigational	-706.158
+Drotaverine	CCOC1=C(OCC)C=C(\C=C2/NCCC3=CC(OCC)=C(OCC)C=C23)C=C1	DB06751	https://go.drugbank.com/drugs/DB06751	approved; investigational	-514.161
+Alcaftadine	CN1CCC(CC1)=C1C2=NC=C(C=O)N2CCC2=CC=CC=C12	DB06766	https://go.drugbank.com/drugs/DB06766	approved	-623.015
+Chenodeoxycholic acid	[H][C@@]1(CC[C@@]2([H])[C@]3([H])[C@H](O)C[C@]4([H])C[C@H](O)CC[C@]4(C)[C@@]3([H])CC[C@]12C)[C@H](C)CCC(O)=O	DB06777	https://go.drugbank.com/drugs/DB06777	approved	-627.732
+Hydroxyprogesterone caproate	[H][C@@]12CC[C@](OC(=O)CCCCC)(C(C)=O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C	DB06789	https://go.drugbank.com/drugs/DB06789	approved; investigational	-415.072
+Mafenide	NCC1=CC=C(C=C1)S(N)(=O)=O	DB06795	https://go.drugbank.com/drugs/DB06795	approved; vet_approved	-699.693
+Nepafenac	NC(=O)CC1=CC=CC(C(=O)C2=CC=CC=C2)=C1N	DB06802	https://go.drugbank.com/drugs/DB06802	approved; investigational	-619.174
+Pyrvinium	CN(C)C1=CC2=C(C=C1)[N+](C)=C(\C=C\C1=C(C)N(C(C)=C1)C1=CC=CC=C1)C=C2	DB06816	https://go.drugbank.com/drugs/DB06816	approved	-556.447
+Viomycin	[H][C@@]1(C[C@H](O)NC(=N)N1)[C@]1([H])NC(=O)\C(NC(=O)[C@H](CO)NC(=O)[C@H](CO)NC(=O)[C@H](CNC1=O)NC(=O)C[C@@H](N)CCCN)=C\NC(N)=O	DB06827	https://go.drugbank.com/drugs/DB06827	approved	-628.558
+Chloramphenicol succinate	O[C@@H]([C@@H](COC(=O)CCC(O)=O)NC(=O)C(Cl)Cl)C1=CC=C(C=C1)[N+]([O-])=O	DB07565	https://go.drugbank.com/drugs/DB07565	approved	-534.705
+Flavone	O=C1C=C(OC2=CC=CC=C12)C1=CC=CC=C1	DB07776	https://go.drugbank.com/drugs/DB07776	approved; experimental	-628.665
+Sulthiame	NS(=O)(=O)C1=CC=C(C=C1)N1CCCCS1(=O)=O	DB08329	https://go.drugbank.com/drugs/DB08329	approved	-655.465
+Parecoxib	CCC(=O)NS(=O)(=O)C1=CC=C(C=C1)C1=C(C)ON=C1C1=CC=CC=C1	DB08439	https://go.drugbank.com/drugs/DB08439	approved	-634.726
+Triclosan	OC1=CC(Cl)=CC=C1OC1=C(Cl)C=C(Cl)C=C1	DB08604	https://go.drugbank.com/drugs/DB08604	approved; investigational	-680.462
+Antazoline	C(N(CC1=CC=CC=C1)C1=CC=CC=C1)C1=NCCN1	DB08799	https://go.drugbank.com/drugs/DB08799	approved	-630.657
+Dimetindene	CC(C1=C(CCN(C)C)CC2=CC=CC=C12)C1=CC=CC=N1	DB08801	https://go.drugbank.com/drugs/DB08801	approved; investigational	-637.118
+Lurasidone	[H][C@@]12[C@H]3CC[C@H](C3)[C@]1([H])C(=O)N(C[C@@H]1CCCC[C@H]1CN1CCN(CC1)C1=NSC3=CC=CC=C13)C2=O	DB08815	https://go.drugbank.com/drugs/DB08815	approved; investigational	-606.208
+Azilsartan medoxomil	CCOC1=NC2=C(N1CC1=CC=C(C=C1)C1=CC=CC=C1C1=NOC(=O)N1)C(=CC=C2)C(=O)OCC1=C(C)OC(=O)O1	DB08822	https://go.drugbank.com/drugs/DB08822	approved; investigational	-395.829
+Acetylcarnitine	CC(=O)O[C@H](CC([O-])=O)C[N+](C)(C)C	DB08842	https://go.drugbank.com/drugs/DB08842	approved; investigational	-623.517
+Fingolimod	CCCCCCCCC1=CC=C(CCC(N)(CO)CO)C=C1	DB08868	https://go.drugbank.com/drugs/DB08868	approved; investigational	-710.05
+Boceprevir	[H][C@]12CN([C@H](C(=O)NC(CC3CCC3)C(=O)C(N)=O)[C@@]1([H])C2(C)C)C(=O)[C@@H](NC(=O)NC(C)(C)C)C(C)(C)C	DB08873	https://go.drugbank.com/drugs/DB08873	approved; withdrawn	-630.633
+Linagliptin	CC#CCN1C(=NC2=C1C(=O)N(CC1=NC3=C(C=CC=C3)C(C)=N1)C(=O)N2C)N1CCC[C@@H](N)C1	DB08882	https://go.drugbank.com/drugs/DB08882	approved	-511.042
+Regorafenib	CNC(=O)C1=CC(OC2=CC(F)=C(NC(=O)NC3=CC=C(Cl)C(=C3)C(F)(F)F)C=C2)=CC=N1	DB08896	https://go.drugbank.com/drugs/DB08896	approved	-562.483
+Formestane	[H][C@@]12CCC(=O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CCC2=C(O)C(=O)CC[C@]12C	DB08905	https://go.drugbank.com/drugs/DB08905	approved; investigational; withdrawn	-652.191
+Afatinib	CN(C)C\C=C\C(=O)NC1=C(O[C@H]2CCOC2)C=C2N=CN=C(NC3=CC(Cl)=C(F)C=C3)C2=C1	DB08916	https://go.drugbank.com/drugs/DB08916	approved	-632.826
+Riociguat	COC(=O)N(C)C1=C(N)N=C(N=C1N)C1=NN(CC2=C(F)C=CC=C2)C2=C1C=CC=N2	DB08931	https://go.drugbank.com/drugs/DB08931	approved	-507.108
+Isoxsuprine	C[C@H](COC1=CC=CC=C1)N[C@H](C)[C@@H](O)C1=CC=C(O)C=C1	DB08941	https://go.drugbank.com/drugs/DB08941	approved; withdrawn	-640.701
+Indoramin	O=C(NC1CCN(CCC2=CNC3=C2C=CC=C3)CC1)C1=CC=CC=C1	DB08950	https://go.drugbank.com/drugs/DB08950	approved; withdrawn	-632.625
+Fursultiamine	C\C(N(CC1=C(N)N=C(C)N=C1)C=O)=C(\CCO)SSCC1CCCO1	DB08966	https://go.drugbank.com/drugs/DB08966	approved	-704.165
+Fluclorolone acetonide	[H][C@@]12C[C@@]3([H])[C@]4([H])C[C@H](F)C5=CC(=O)C=C[C@]5(C)[C@@]4(Cl)[C@@H](Cl)C[C@]3(C)[C@@]1(OC(C)(C)O2)C(=O)CO	DB08973	https://go.drugbank.com/drugs/DB08973	approved; withdrawn	-634.69
+Etilefrine	CCNCC(O)C1=CC=CC(O)=C1	DB08985	https://go.drugbank.com/drugs/DB08985	approved; withdrawn	-617.655
+Diosmin	COC1=C(O)C=C(C=C1)C1=CC(=O)C2=C(O)C=C(O[C@@H]3O[C@H](CO[C@@H]4O[C@@H](C)[C@H](O)[C@@H](O)[C@H]4O)[C@@H](O)[C@H](O)[C@H]3O)C=C2O1	DB08995	https://go.drugbank.com/drugs/DB08995	approved; investigational	-642.822
+Articaine	CCCNC(C)C(=O)NC1=C(SC=C1C)C(=O)OC	DB09009	https://go.drugbank.com/drugs/DB09009	approved	-602.955
+Bromhexine	CN(CC1=CC(Br)=CC(Br)=C1N)C1CCCCC1	DB09019	https://go.drugbank.com/drugs/DB09019	approved	-640.834
+Bisacodyl	CC(=O)OC1=CC=C(C=C1)C(C1=CC=C(OC(C)=O)C=C1)C1=CC=CC=N1	DB09020	https://go.drugbank.com/drugs/DB09020	approved	-535.421
+Vorapaxar	[H][C@@]12C[C@]3([H])C[C@@H](CC[C@@]3([H])[C@H](\C=C\C3=CC=C(C=N3)C3=CC(F)=CC=C3)[C@]1([H])[C@@H](C)OC2=O)NC(=O)OCC	DB09030	https://go.drugbank.com/drugs/DB09030	approved	-587.293
+Tedizolid phosphate	CN1N=NC(=N1)C1=CC=C(C=N1)C1=CC=C(C=C1F)N1C[C@H](COP(O)(O)=O)OC1=O	DB09042	https://go.drugbank.com/drugs/DB09042	approved	-548.17
+Idelalisib	[H][C@@](CC)(NC1=NC=NC2=C1N=CN2)C1=NC2=CC=CC(F)=C2C(=O)N1C1=CC=CC=C1	DB09054	https://go.drugbank.com/drugs/DB09054	approved	-566.135
+Trimetazidine	COC1=C(OC)C(OC)=C(CN2CCNCC2)C=C1	DB09069	https://go.drugbank.com/drugs/DB09069	approved; investigational	-649.11
+Tasimelteon	CCC(=O)NC[C@@H]1C[C@H]1C1=CC=CC2=C1CCO2	DB09071	https://go.drugbank.com/drugs/DB09071	approved; investigational	-631.584
+Amylocaine	CCC(C)(CN(C)C)OC(=O)C1=CC=CC=C1	DB09088	https://go.drugbank.com/drugs/DB09088	approved; withdrawn	-710.69
+Difluocortolone	[H][C@@]12C[C@@H](C)[C@H](C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1(F)[C@@]2([H])C[C@H](F)C2=CC(=O)C=C[C@]12C	DB09095	https://go.drugbank.com/drugs/DB09095	approved; investigational; withdrawn	-648.707
+Elvitegravir	[H][C@@](CO)(C(C)C)N1C=C(C(O)=O)C(=O)C2=C1C=C(OC)C(CC1=C(F)C(Cl)=CC=C1)=C2	DB09101	https://go.drugbank.com/drugs/DB09101	approved	-626.389
+Eslicarbazepine acetate	CC(=O)O[C@H]1CC2=CC=CC=C2N(C(N)=O)C2=CC=CC=C12	DB09119	https://go.drugbank.com/drugs/DB09119	approved	-635.492
+Brexpiprazole	O=C1NC2=CC(OCCCCN3CCN(CC3)C3=C4C=CSC4=CC=C3)=CC=C2C=C1	DB09128	https://go.drugbank.com/drugs/DB09128	approved; investigational	-535.902
+Iothalamic acid	CNC(=O)C1=C(I)C(C(O)=O)=C(I)C(NC(C)=O)=C1I	DB09133	https://go.drugbank.com/drugs/DB09133	approved	-654.247
+Florbetaben (18F)	CNC1=CC=C(\C=C\C2=CC=C(OCCOCCOCC[18F])C=C2)C=C1	DB09148	https://go.drugbank.com/drugs/DB09148	approved	-566.437
+Flutemetamol (18F)	CNC1=C([18F])C=C(C=C1)C1=NC2=CC=C(O)C=C2S1	DB09151	https://go.drugbank.com/drugs/DB09151	approved; investigational	-635.742
+Dosulepin	CN(C)CC\C=C1/C2=CC=CC=C2CSC2=CC=CC=C12	DB09167	https://go.drugbank.com/drugs/DB09167	approved	-632.541
+Dasabuvir	COC1=C(C=C(C=C1C1=CC2=CC=C(NS(C)(=O)=O)C=C2C=C1)N1C=CC(=O)NC1=O)C(C)(C)C	DB09183	https://go.drugbank.com/drugs/DB09183	approved	-632.707
+Lorpiprazole	[H][C@@]12CCC[C@]1([H])C1=NN=C(CCN3CCN(CC3)C3=CC=CC(=C3)C(F)(F)F)N1C2	DB09195	https://go.drugbank.com/drugs/DB09195	approved	-638.474
+Moxisylyte	CC(C)C1=C(OCCN(C)C)C=C(C)C(OC(C)=O)=C1	DB09205	https://go.drugbank.com/drugs/DB09205	approved; investigational	-581.164
+Bisoxatin	OC1=CC=C(C=C1)C1(OC2=CC=CC=C2NC1=O)C1=CC=C(O)C=C1	DB09219	https://go.drugbank.com/drugs/DB09219	approved	-655.173
+Nicorandil	[O-][N+](=O)OCCNC(=O)C1=CC=CN=C1	DB09220	https://go.drugbank.com/drugs/DB09220	approved; investigational	-610.955
+Manidipine	COC(=O)C1=C(C)NC(C)=C(C1C1=CC(=CC=C1)N(=O)=O)C(=O)OCCN1CCN(CC1)C(C1=CC=CC=C1)C1=CC=CC=C1	DB09238	https://go.drugbank.com/drugs/DB09238	approved; investigational	-603.378
+Moxonidine	COC1=NC(C)=NC(Cl)=C1NC1=NCCN1	DB09242	https://go.drugbank.com/drugs/DB09242	approved; investigational	-630.329
+Tegafur	FC1=CN(C2CCCO2)C(=O)NC1=O	DB09256	https://go.drugbank.com/drugs/DB09256	approved; investigational	-627.267
+Picosulfuric acid	OS(=O)(=O)OC1=CC=C(C=C1)C(C1=CC=C(OS(O)(=O)=O)C=C1)C1=CC=CC=N1	DB09268	https://go.drugbank.com/drugs/DB09268	approved	-627.636
+Eluxadoline	COC1=CC=C(CN([C@@H](C)C2=NC(=CN2)C2=CC=CC=C2)C(=O)[C@@H](N)CC2=C(C)C=C(C=C2C)C(N)=O)C=C1C(O)=O	DB09272	https://go.drugbank.com/drugs/DB09272	approved; investigational	-618.633
+Lumacaftor	CC1=CC=C(NC(=O)C2(CC2)C2=CC=C3OC(F)(F)OC3=C2)N=C1C1=CC(=CC=C1)C(O)=O	DB09280	https://go.drugbank.com/drugs/DB09280	approved	-651.644
+Rolapitant	C[C@@H](OC[C@]1(CC[C@]2(CCC(=O)N2)CN1)C1=CC=CC=C1)C1=CC(=CC(=C1)C(F)(F)F)C(F)(F)F	DB09291	https://go.drugbank.com/drugs/DB09291	approved; investigational	-692.283
+Ioxaglic acid	CNC(=O)C1=C(I)C(C(=O)NCC(=O)NC2=C(I)C(C(O)=O)=C(I)C(C(=O)NCCO)=C2I)=C(I)C(N(C)C(C)=O)=C1I	DB09313	https://go.drugbank.com/drugs/DB09313	approved; investigational	-638.149
+Sulbactam	[H][C@@]12CC(=O)N1[C@@]([H])(C(O)=O)C(C)(C)S2(=O)=O	DB09324	https://go.drugbank.com/drugs/DB09324	approved	-648.538
+Iopodic acid	CN(C)C=NC1=C(I)C=C(I)C(CCC(O)=O)=C1I	DB09333	https://go.drugbank.com/drugs/DB09333	approved; investigational; withdrawn	-689.56
+Propiolactone	O=C1CCO1	DB09348	https://go.drugbank.com/drugs/DB09348	approved; withdrawn	-628.915
+Dexpanthenol	CC(C)(CO)[C@@H](O)C(=O)NCCCO	DB09357	https://go.drugbank.com/drugs/DB09357	approved	-585.125
+Propyliodone	CCCOC(=O)CN1C=C(I)C(=O)C(I)=C1	DB09366	https://go.drugbank.com/drugs/DB09366	approved	-599.341
+Fluprednisolone	[H][C@@]12CC[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1([H])[C@@]2([H])C[C@H](F)C2=CC(=O)C=C[C@]12C	DB09378	https://go.drugbank.com/drugs/DB09378	approved	-604.474
+Meprednisone	[H][C@]1(C)C[C@@]2([H])[C@]3([H])CCC4=CC(=O)C=C[C@]4(C)[C@@]3([H])C(=O)C[C@]2(C)[C@@]1(O)C(=O)CO	DB09383	https://go.drugbank.com/drugs/DB09383	approved; investigational	-638.458
+Phosphoric acid	OP(O)(O)=O	DB09394	https://go.drugbank.com/drugs/DB09394	approved	-647.869
+Isosorbide	[H][C@]1(O)CO[C@]2([H])[C@]([H])(O)CO[C@]12[H]	DB09401	https://go.drugbank.com/drugs/DB09401	approved; investigational	-648.888
+Meglumine	CNC[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO	DB09415	https://go.drugbank.com/drugs/DB09415	approved	-629.368
+Protirelin	[H][C@@](CC1=CN=CN1)(NC(=O)[C@]1([H])CCC(=O)N1)C(=O)N1CCC[C@@]1([H])C(N)=O	DB09421	https://go.drugbank.com/drugs/DB09421	approved; investigational	-557.944
+Glycerin	OCC(O)CO	DB09462	https://go.drugbank.com/drugs/DB09462	approved; investigational	-700.978
+Enalaprilat	[H][C@@](C)(N[C@@]([H])(CCC1=CC=CC=C1)C(O)=O)C(=O)N1CCC[C@@]1([H])C(O)=O	DB09477	https://go.drugbank.com/drugs/DB09477	approved	-630.977
+Iofetamine I-123	CC(C)NC(C)CC1=CC=C([123I])C=C1	DB09480	https://go.drugbank.com/drugs/DB09480	approved	-583.075
+Thiosulfuric acid	OS(O)(=O)=S	DB09499	https://go.drugbank.com/drugs/DB09499	approved; investigational	-629.247
+Fludeoxyglucose (18F)	[H]C(=O)[C@H]([18F])[C@@H](O)[C@H](O)[C@H](O)CO	DB09502	https://go.drugbank.com/drugs/DB09502	approved; investigational	-623.73
+Urea C-14	N[14C](N)=O	DB09513	https://go.drugbank.com/drugs/DB09513	approved	-634.264
+Hydroquinone	OC1=CC=C(O)C=C1	DB09526	https://go.drugbank.com/drugs/DB09526	approved; investigational	-705.877
+Ecamsule	CC1(C)C2CCC1(CS(O)(=O)=O)C(=O)C2=CC1=CC=C(C=C2C3CCC(CS(O)(=O)=O)(C2=O)C3(C)C)C=C1	DB09534	https://go.drugbank.com/drugs/DB09534	approved	-640.894
+Methyl salicylate	COC(=O)C1=CC=CC=C1O	DB09543	https://go.drugbank.com/drugs/DB09543	approved; vet_approved	-703.796
+Choline C-11	C[N+](C)([11CH3])CCO	DB09563	https://go.drugbank.com/drugs/DB09563	approved	-627.854
+Levmetamfetamine	CN[C@H](C)CC1=CC=CC=C1	DB09571	https://go.drugbank.com/drugs/DB09571	approved	-655.127
+Homosalate	CC1CC(CC(C)(C)C1)OC(=O)C1=C(O)C=CC=C1	DB11064	https://go.drugbank.com/drugs/DB11064	approved; investigational	-628.337
+Cetylpyridinium	CCCCCCCCCCCCCCCC[N+]1=CC=CC=C1	DB11073	https://go.drugbank.com/drugs/DB11073	approved	-654.903
+Resorcinol	OC1=CC(O)=CC=C1	DB11085	https://go.drugbank.com/drugs/DB11085	approved	-659.347
+Meradimate	CC(C)C1CCC(C)CC1OC(=O)C1=CC=CC=C1N	DB11096	https://go.drugbank.com/drugs/DB11096	approved	-712.593
+Allantoin	NC(=O)NC1NC(=O)NC1=O	DB11100	https://go.drugbank.com/drugs/DB11100	approved	-632.36
+Ensulizole	OS(=O)(=O)C1=CC2=C(C=C1)N=C(N2)C1=CC=CC=C1	DB11115	https://go.drugbank.com/drugs/DB11115	approved	-633.529
+Benzethonium	CC(C)(C)CC(C)(C)C1=CC=C(OCCOCC[N+](C)(C)CC2=CC=CC=C2)C=C1	DB11125	https://go.drugbank.com/drugs/DB11125	approved	-424.138
+Silicon dioxide	O=[Si]=O	DB11132	https://go.drugbank.com/drugs/DB11132	approved	-629.881
+Oxyquinoline	OC1=CC=CC2=C1N=CC=C2	DB11145	https://go.drugbank.com/drugs/DB11145	approved; vet_approved	-652.716
+Anthralin	OC1=CC=CC2=C1C(=O)C1=C(O)C=CC=C1C2	DB11157	https://go.drugbank.com/drugs/DB11157	approved	-636.784
+Phenyltoloxamine	CN(C)CCOC1=CC=CC=C1CC1=CC=CC=C1	DB11160	https://go.drugbank.com/drugs/DB11160	approved	-638.019
+Zeaxanthin	C\C(\C=C\C=C(/C)\C=C\C1=C(C)C[C@@H](O)CC1(C)C)=C/C=C/C=C(\C)/C=C/C=C(\C)/C=C/C1=C(C)C[C@@H](O)CC1(C)C	DB11176	https://go.drugbank.com/drugs/DB11176	approved; investigational	-638.568
+Rose bengal	OC(=O)C1=C(Cl)C(Cl)=C(Cl)C(Cl)=C1C1=C2C=C(I)C(=O)C(I)=C2OC2=C(I)C(O)=C(I)C=C12	DB11182	https://go.drugbank.com/drugs/DB11182	approved; investigational	-629.368
+Amiloxate	COC1=CC=C(\C=C\C(=O)OCCC(C)C)C=C1	DB11207	https://go.drugbank.com/drugs/DB11207	approved	-632.905
+Arbutin	OC[C@H]1O[C@@H](OC2=CC=C(O)C=C2)[C@H](O)[C@@H](O)[C@@H]1O	DB11217	https://go.drugbank.com/drugs/DB11217	approved	-635.631
+Ethylhexyl methoxycrylene	CCCCC(CC)COC(=O)C(C#N)=C(C1=CC=CC=C1)C1=CC=C(OC)C=C1	DB11226	https://go.drugbank.com/drugs/DB11226	approved; experimental	-466.889
+Thonzylamine	COC1=CC=C(CN(CCN(C)C)C2=NC=CC=N2)C=C1	DB11235	https://go.drugbank.com/drugs/DB11235	approved	-555.321
+Hexylresorcinol	CCCCCCC1=C(O)C=C(O)C=C1	DB11254	https://go.drugbank.com/drugs/DB11254	approved	-645.031
+Diethylamino hydroxybenzoyl hexyl benzoate	CCCCCCOC(=O)C1=CC=CC=C1C(=O)C1=CC=C(C=C1O)N(CC)CC	DB11269	https://go.drugbank.com/drugs/DB11269	approved	-625.696
+Dihydro-alpha-ergocryptine	[H][C@@]12CCCN1C(=O)[C@H](CC(C)C)N1C(=O)[C@](NC(=O)[C@H]3CN(C)[C@]4([H])CC5=CNC6=CC=CC(=C56)[C@@]4([H])C3)(O[C@@]21O)C(C)C	DB11274	https://go.drugbank.com/drugs/DB11274	approved	-628.132
+Diethyltoluamide	CCN(CC)C(=O)C1=CC(C)=CC=C1	DB11282	https://go.drugbank.com/drugs/DB11282	approved	-650.462
+Vanillyl butyl ether	CCCCOCC1=CC(OC)=C(O)C=C1	DB11299	https://go.drugbank.com/drugs/DB11299	approved	-593.113
+Phenoxyethanol	OCCOC1=CC=CC=C1	DB11304	https://go.drugbank.com/drugs/DB11304	approved	-666.894
+Dipyrithione	[O-][N+]1=CC=CC=C1SSC1=CC=CC=[N+]1[O-]	DB11327	https://go.drugbank.com/drugs/DB11327	approved	-639.897
+Kinetin	C(NC1=NC=NC2=C1NC=N2)C1=CC=CO1	DB11336	https://go.drugbank.com/drugs/DB11336	approved	-716.196
+Guaiacol	COC1=C(O)C=CC=C1	DB11359	https://go.drugbank.com/drugs/DB11359	approved	-690.808
+Alectinib	CCC1=CC2=C(C=C1N1CCC(CC1)N1CCOCC1)C(C)(C)C1=C(C3=CC=C(C=C3N1)C#N)C2=O	DB11363	https://go.drugbank.com/drugs/DB11363	approved; investigational	-347.259
+Chlorobutanol	CC(C)(O)C(Cl)(Cl)Cl	DB11386	https://go.drugbank.com/drugs/DB11386	approved; investigational; vet_approved	-637.662
+Moxidectin	[H][C@@]12OC\C3=C/C=C/[C@H](C)C\C(C)=C\C[C@]4([H])C[C@@]([H])(C[C@]5(C\C(=N/OC)[C@H](C)[C@H](O5)C(\C)=C\C(C)C)O4)OC(=O)[C@]([H])(C=C(C)[C@H]1O)[C@@]23O	DB11431	https://go.drugbank.com/drugs/DB11431	approved; investigational; vet_approved	-440.659
+2-mercaptobenzothiazole	S=C1NC2=C(S1)C=CC=C2	DB11496	https://go.drugbank.com/drugs/DB11496	approved; experimental; vet_approved	-633.889
+Dihydrostreptomycin	CN[C@H]1[C@H](O)[C@@H](O)[C@H](CO)O[C@H]1O[C@H]1[C@H](O[C@H]2[C@H](O)[C@@H](O)[C@H](NC(N)=N)[C@@H](O)[C@@H]2NC(N)=N)O[C@@H](C)[C@]1(O)CO	DB11512	https://go.drugbank.com/drugs/DB11512	approved; investigational; vet_approved; withdrawn	-632.735
+Lesinurad	OC(=O)CSC1=NN=C(Br)N1C1=CC=C(C2CC2)C2=C1C=CC=C2	DB11560	https://go.drugbank.com/drugs/DB11560	approved; investigational	-571.179
+Padimate O	CCCCC(CC)COC(=O)C1=CC=C(C=C1)N(C)C	DB11570	https://go.drugbank.com/drugs/DB11570	approved	-630.816
+Pipradrol	[H]N1CCCCC1C(O)(C1=CC=CC=C1)C1=CC=CC=C1	DB11584	https://go.drugbank.com/drugs/DB11584	approved	-635.794
+Levoleucovorin	NC1=NC(=O)C2=C(NC[C@H](CNC3=CC=C(C=C3)C(=O)N[C@@H](CCC(O)=O)C(O)=O)N2C=O)N1	DB11596	https://go.drugbank.com/drugs/DB11596	approved; investigational	-499.806
+Normethadone	CCC(=O)C(CCN(C)C)(C1=CC=CC=C1)C1=CC=CC=C1	DB11609	https://go.drugbank.com/drugs/DB11609	approved; illicit	-628.078
+Lifitegrast	CS(=O)(=O)C1=CC(C[C@H](NC(=O)C2=C(Cl)C3=C(CN(CC3)C(=O)C3=CC=C4C=COC4=C3)C=C2Cl)C(O)=O)=CC=C1	DB11611	https://go.drugbank.com/drugs/DB11611	approved	-384.176
+Dehydrocholic acid	[H][C@@]1(CC[C@@]2([H])[C@]3([H])C(=O)C[C@]4([H])CC(=O)CC[C@]4(C)[C@@]3([H])CC(=O)[C@]12C)[C@H](C)CCC(O)=O	DB11622	https://go.drugbank.com/drugs/DB11622	approved; investigational	-535.538
+Delamanid	C[C@]1(COC2=CC=C(C=C2)N2CCC(CC2)OC2=CC=C(OC(F)(F)F)C=C2)CN2C=C(N=C2O1)[N+]([O-])=O	DB11637	https://go.drugbank.com/drugs/DB11637	approved; investigational	-631.656
+Tafamidis	OC(=O)C1=CC=C2N=C(OC2=C1)C1=CC(Cl)=CC(Cl)=C1	DB11644	https://go.drugbank.com/drugs/DB11644	approved; investigational	-633.44
+Rebamipide	OC(=O)C(CC1=CC(=O)NC2=C1C=CC=C2)NC(=O)C1=CC=C(Cl)C=C1	DB11656	https://go.drugbank.com/drugs/DB11656	approved; investigational	-707.464
+Curcumin	COC1=CC(\C=C\C(=O)CC(=O)\C=C\C2=CC(OC)=C(O)C=C2)=CC=C1O	DB11672	https://go.drugbank.com/drugs/DB11672	approved; experimental; investigational	-632.971
+Selumetinib	CN1C=NC2=C(F)C(NC3=C(Cl)C=C(Br)C=C3)=C(C=C12)C(=O)NOCCO	DB11689	https://go.drugbank.com/drugs/DB11689	approved; investigational	-631.11
+Naldemedine	[H][C@@]12OC3=C4C(C[C@@]5([H])N(CC6CC6)CC[C@@]14[C@@]5(O)CC(C(=O)NC(C)(C)C1=NC(=NO1)C1=CC=CC=C1)=C2O)=CC=C3O	DB11691	https://go.drugbank.com/drugs/DB11691	approved; investigational	-617.945
+Iomeprol	CN(C(=O)CO)C1=C(I)C(C(=O)NCC(O)CO)=C(I)C(C(=O)NCC(O)CO)=C1I	DB11705	https://go.drugbank.com/drugs/DB11705	approved; investigational	-564.884
+Tezacaftor	CC(C)(CO)C1=CC2=CC(NC(=O)C3(CC3)C3=CC=C4OC(F)(F)OC4=C3)=C(F)C=C2N1C[C@@H](O)CO	DB11712	https://go.drugbank.com/drugs/DB11712	approved; investigational	-360.921
+Lasmiditan	CN1CCC(CC1)C(=O)C1=CC=CC(NC(=O)C2=C(F)C=C(F)C=C2F)=N1	DB11732	https://go.drugbank.com/drugs/DB11732	approved; investigational	-596.028
+Benfotiamine	C\C(N(CC1=CN=C(C)N=C1N)C=O)=C(/CCOP(O)(O)=O)SC(=O)C1=CC=CC=C1	DB11748	https://go.drugbank.com/drugs/DB11748	approved; experimental	-669.598
+Istradefylline	[H]\C(=C(\[H])C1=CC(OC)=C(OC)C=C1)C1=NC2=C(N1C)C(=O)N(CC)C(=O)N2CC	DB11757	https://go.drugbank.com/drugs/DB11757	approved; investigational	-528.908
+Zytron	COP(=S)(NC(C)C)OC1=CC=C(Cl)C=C1Cl	DB11768	https://go.drugbank.com/drugs/DB11768	approved; investigational	-658.811
+Fostemsavir	COC1=CN=C(N2C=NC(C)=N2)C2=C1C(=CN2COP(O)(O)=O)C(=O)C(=O)N1CCN(CC1)C(=O)C1=CC=CC=C1	DB11796	https://go.drugbank.com/drugs/DB11796	approved; investigational	-618.973
+Tivozanib	COC1=C(OC)C=C2C(OC3=CC(Cl)=C(NC(=O)NC4=NOC(C)=C4)C=C3)=CC=NC2=C1	DB11800	https://go.drugbank.com/drugs/DB11800	approved; investigational	-645.297
+Baricitinib	CCS(=O)(=O)N1CC(CC#N)(C1)N1C=C(C=N1)C1=C2C=CNC2=NC=N1	DB11817	https://go.drugbank.com/drugs/DB11817	approved; investigational	-631.644
+Esketamine	CN[C@@]1(CCCCC1=O)C1=CC=CC=C1Cl	DB11823	https://go.drugbank.com/drugs/DB11823	approved; investigational	-624.193
+Osilodrostat	FC1=C(C=CC(=C1)C#N)[C@H]1CCC2=CN=CN12	DB11837	https://go.drugbank.com/drugs/DB11837	approved; investigational	-692.153
+Relugolix	CONC(=O)NC1=CC=C(C=C1)C1=C(CN(C)C)C2=C(S1)N(CC1=C(F)C=CC=C1F)C(=O)N(C2=O)C1=CC=C(OC)N=N1	DB11853	https://go.drugbank.com/drugs/DB11853	approved; investigational	-232.321
+Apalutamide	CNC(=O)C1=CC=C(C=C1F)N1C(=S)N(C(=O)C11CCC1)C1=CC(=C(N=C1)C#N)C(F)(F)F	DB11901	https://go.drugbank.com/drugs/DB11901	approved; investigational	-596.295
+Valbenazine	COC1=C(OC)C=C2[C@H]3C[C@@H](OC(=O)[C@@H](N)C(C)C)[C@H](CC(C)C)CN3CCC2=C1	DB11915	https://go.drugbank.com/drugs/DB11915	approved; investigational	-733.739
+Deflazacort	[H][C@@]12C[C@@]3([H])[C@]4([H])CCC5=CC(=O)C=C[C@]5(C)[C@@]4([H])[C@@]([H])(O)C[C@]3(C)[C@@]1(N=C(C)O2)C(=O)COC(C)=O	DB11921	https://go.drugbank.com/drugs/DB11921	approved; investigational	-638.08
+Bempedoic acid	CC(C)(CCCCCC(O)CCCCCC(C)(C)C(O)=O)C(O)=O	DB11936	https://go.drugbank.com/drugs/DB11936	approved; investigational	-633.027
+Delafloxacin	NC1=NC(N2C=C(C(O)=O)C(=O)C3=CC(F)=C(N4CC(O)C4)C(Cl)=C23)=C(F)C=C1F	DB11943	https://go.drugbank.com/drugs/DB11943	approved; investigational	-550.897
+Duvelisib	C[C@H](NC1=C2N=CNC2=NC=N1)C1=CC2=CC=CC(Cl)=C2C(=O)N1C1=CC=CC=C1	DB11952	https://go.drugbank.com/drugs/DB11952	approved; investigational	-591.495
+Binimetinib	CN1C=NC2=C(F)C(NC3=CC=C(Br)C=C3F)=C(C=C12)C(=O)NOCCO	DB11967	https://go.drugbank.com/drugs/DB11967	approved; investigational	-703.241
+Elagolix	COC1=CC=CC(=C1F)C1=C(C)N(CC2=C(C=CC=C2F)C(F)(F)F)C(=O)N(C[C@H](NCCCC(O)=O)C2=CC=CC=C2)C1=O	DB11979	https://go.drugbank.com/drugs/DB11979	approved; investigational	-574.332
+Entrectinib	CN1CCN(CC1)C1=CC=C(C(=O)NC2=NNC3=CC=C(CC4=CC(F)=CC(F)=C4)C=C23)C(NC2CCOCC2)=C1	DB11986	https://go.drugbank.com/drugs/DB11986	approved; investigational	-647.795
+Diacerein	CC(=O)OC1=CC=CC2=C1C(=O)C1=C(OC(C)=O)C=C(C=C1C2=O)C(O)=O	DB11994	https://go.drugbank.com/drugs/DB11994	approved; investigational	-634.009
+Abemaciclib	CCN1CCN(CC2=CC=C(NC3=NC=C(F)C(=N3)C3=CC(F)=C4N=C(C)N(C(C)C)C4=C3)N=C2)CC1	DB12001	https://go.drugbank.com/drugs/DB12001	approved; investigational	-577.179
+Fostamatinib	COC1=CC(NC2=NC=C(F)C(NC3=NC4=C(OC(C)(C)C(=O)N4COP(O)(O)=O)C=C3)=N2)=CC(OC)=C1OC	DB12010	https://go.drugbank.com/drugs/DB12010	approved; investigational	-632.459
+Tecovirimat	FC(F)(F)C1=CC=C(C=C1)C(=O)NN1C(=O)[C@H]2[C@H]([C@H]3C=C[C@@H]2[C@@H]2C[C@H]32)C1=O	DB12020	https://go.drugbank.com/drugs/DB12020	approved; investigational	-693.033
+Letermovir	COC1=CC=CC(=C1)N1CCN(CC1)C1=NC2=C(C=CC=C2F)[C@H](CC(O)=O)N1C1=CC(=CC=C1OC)C(F)(F)F	DB12070	https://go.drugbank.com/drugs/DB12070	approved; investigational	-627.148
+Mannitol busulfan	CS(=O)(=O)OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)COS(C)(=O)=O	DB12097	https://go.drugbank.com/drugs/DB12097	approved; investigational	-658.555
+Sultamicillin	[H][C@]12SC(C)(C)[C@@H](N1C(=O)[C@H]2NC(=O)[C@H](N)C1=CC=CC=C1)C(=O)OCOC(=O)[C@@H]1N2C(=O)C[C@@]2([H])S(=O)(=O)C1(C)C	DB12127	https://go.drugbank.com/drugs/DB12127	approved; investigational	-641.894
+Lorlatinib	C[C@H]1OC2=C(N)N=CC(=C2)C2=C(C#N)N(C)N=C2CN(C)C(=O)C2=C1C=C(F)C=C2	DB12130	https://go.drugbank.com/drugs/DB12130	approved; investigational	-686.756
+Gilteritinib	CCC1=C(NC2CCOCC2)N=C(NC2=CC=C(N3CCC(CC3)N3CCN(C)CC3)C(OC)=C2)C(=N1)C(N)=O	DB12141	https://go.drugbank.com/drugs/DB12141	approved; investigational	-620.261
+Citicoline	C[N+](C)(C)CCOP([O-])(=O)OP(O)(=O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)N1C=CC(N)=NC1=O	DB12153	https://go.drugbank.com/drugs/DB12153	approved; experimental	-628.357
+Deutetrabenazine	[2H]C([2H])([2H])OC1=CC2=C(C=C1OC([2H])([2H])[2H])[C@@H]1CC(=O)[C@@H](CC(C)C)CN1CC2	DB12161	https://go.drugbank.com/drugs/DB12161	approved; investigational	-635.698
+Edaravone	CC1=NN(C(=O)C1)C1=CC=CC=C1	DB12243	https://go.drugbank.com/drugs/DB12243	approved; investigational	-652.905
+Brigatinib	COC1=CC(=CC=C1NC1=NC=C(Cl)C(NC2=CC=CC=C2P(C)(C)=O)=N1)N1CCC(CC1)N1CCN(C)CC1	DB12267	https://go.drugbank.com/drugs/DB12267	approved; investigational	-627.987
+Propiverine	CCCOC(C(=O)OC1CCN(C)CC1)(C1=CC=CC=C1)C1=CC=CC=C1	DB12278	https://go.drugbank.com/drugs/DB12278	approved; investigational	-681.905
+Nefopam	CN1CCOC(C2=CC=CC=C2)C2=CC=CC=C2C1	DB12293	https://go.drugbank.com/drugs/DB12293	approved; investigational	-712.594
+Doravirine	CN1C(=O)NN=C1CN1C=CC(=C(OC2=CC(=CC(Cl)=C2)C#N)C1=O)C(F)(F)F	DB12301	https://go.drugbank.com/drugs/DB12301	approved; investigational	-630.641
+Dopexamine	OC1=C(O)C=C(CCNCCCCCCNCCC2=CC=CC=C2)C=C1	DB12313	https://go.drugbank.com/drugs/DB12313	approved; investigational	-639.117
+Cantharidin	[H][C@]12CC[C@]([H])(O1)[C@]1(C)C(=O)OC(=O)[C@]21C	DB12328	https://go.drugbank.com/drugs/DB12328	approved; investigational	-629.441
+Rucaparib	CNCC1=CC=C(C=C1)C1=C2CCNC(=O)C3=C2C(N1)=CC(F)=C3	DB12332	https://go.drugbank.com/drugs/DB12332	approved; investigational	-628.902
+Temocillin	CO[C@]1(NC(=O)C(C(O)=O)C2=CSC=C2)[C@H]2SC(C)(C)[C@@H](N2C1=O)C(O)=O	DB12343	https://go.drugbank.com/drugs/DB12343	approved; investigational	-634.18
+Betrixaban	COC1=CC=C(NC(=O)C2=CC=C(C=C2)C(=N)N(C)C)C(=C1)C(=O)NC1=CC=C(Cl)C=N1	DB12364	https://go.drugbank.com/drugs/DB12364	approved; investigational	-641.347
+Relebactam	OS(=O)(=O)ON1[C@H]2C[N@]([C@@H](CC2)C(=O)NC2CCNCC2)C1=O	DB12377	https://go.drugbank.com/drugs/DB12377	approved; investigational	-695.431
+Bromperidol	OC1(CCN(CCCC(=O)C2=CC=C(F)C=C2)CC1)C1=CC=C(Br)C=C1	DB12401	https://go.drugbank.com/drugs/DB12401	approved; investigational	-648.678
+Steviolbioside	C[C@@]12CCC[C@](C)([C@H]1CC[C@@]13CC(=C)[C@@](C1)(CC[C@@H]23)O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O)C(O)=O	DB12434	https://go.drugbank.com/drugs/DB12434	approved; investigational	-624.747
+Rimegepant	N[C@H]1[C@@H](CC[C@@H](OC(=O)N2CCC(CC2)N2C(=O)NC3=NC=CC=C23)C2=C1C=CC=N2)C1=C(F)C(F)=CC=C1	DB12457	https://go.drugbank.com/drugs/DB12457	approved; investigational	-648.786
+Favipiravir	NC(=O)C1=NC(F)=CN=C1O	DB12466	https://go.drugbank.com/drugs/DB12466	approved; investigational	-626.993
+Taurolidine	O=S1(=O)CCN(CN2CCS(=O)(=O)NC2)CN1	DB12473	https://go.drugbank.com/drugs/DB12473	approved; investigational	-638.146
+Copanlisib	COC1=C(OCCCN2CCOCC2)C=CC2=C1N=C(NC(=O)C1=CN=C(N)N=C1)N1CCN=C21	DB12483	https://go.drugbank.com/drugs/DB12483	approved; investigational	-626.609
+Clascoterone	[H][C@@]12CC[C@](OC(=O)CC)(C(=O)CO)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C	DB12499	https://go.drugbank.com/drugs/DB12499	approved; investigational	-708.853
+Fedratinib	CC1=CN=C(NC2=CC=C(OCCN3CCCC3)C=C2)N=C1NC1=CC=CC(=C1)S(=O)(=O)NC(C)(C)C	DB12500	https://go.drugbank.com/drugs/DB12500	approved; investigational	-630.555
+Mizolastine	CN(C1CCN(CC1)C1=NC2=C(C=CC=C2)N1CC1=CC=C(F)C=C1)C1=NC=CC(=O)N1	DB12523	https://go.drugbank.com/drugs/DB12523	approved; investigational	-675.924
+Benzodiazepine	N1N=CC=CC2=CC=CC=C12	DB12537	https://go.drugbank.com/drugs/DB12537	approved; investigational	-655.848
+Mebeverine	CCN(CCCCOC(=O)C1=CC(OC)=C(OC)C=C1)C(C)CC1=CC=C(OC)C=C1	DB12554	https://go.drugbank.com/drugs/DB12554	approved; investigational	-472.578
+Plazomicin	CN[C@@H]1[C@@H](O)[C@@H](O[C@H]2[C@@H](C[C@H](N)[C@@H](O[C@H]3OC(CNCCO)=CC[C@H]3N)[C@@H]2O)NC(=O)[C@@H](O)CCN)OC[C@]1(C)O	DB12615	https://go.drugbank.com/drugs/DB12615	approved; investigational	-356.474
+Protionamide	CCCC1=CC(=CC=N1)C(N)=S	DB12667	https://go.drugbank.com/drugs/DB12667	approved; investigational	-667.518
+Sotagliflozin	CCOC1=CC=C(CC2=CC(=CC=C2Cl)[C@@H]2O[C@H](SC)[C@@H](O)[C@H](O)[C@H]2O)C=C1	DB12713	https://go.drugbank.com/drugs/DB12713	approved; investigational	-583.604
+Fenpropidin	CC(CN1CCCCC1)CC1=CC=C(C=C1)C(C)(C)C	DB12728	https://go.drugbank.com/drugs/DB12728	approved; experimental	-539.176
+Gaxilose	OC[C@@H](O[C@@H]1O[C@H](CO)[C@H](O)[C@H](O)[C@H]1O)[C@H](O)[C@@H](O)C=O	DB12767	https://go.drugbank.com/drugs/DB12767	approved; investigational	-631.897
+Benserazide	NC(CO)C(=O)NNCC1=C(O)C(O)=C(O)C=C1	DB12783	https://go.drugbank.com/drugs/DB12783	approved; investigational	-653.289
+Boscalid	ClC1=CC=C(C=C1)C1=C(NC(=O)C2=C(Cl)N=CC=C2)C=CC=C1	DB12792	https://go.drugbank.com/drugs/DB12792	approved; experimental	-575.364
+Trifarotene	CC(C)(C)C1=CC(=CC=C1N1CCCC1)C1=CC(=CC=C1OCCO)C1=CC=C(C=C1)C(O)=O	DB12808	https://go.drugbank.com/drugs/DB12808	approved; investigational	-500.571
+Lefamulin	[H][C@@]12C(=O)CC[C@]11CCC(C)[C@@]2(C)[C@@H](C[C@@](C)(C=C)[C@@H](O)[C@@H]1C)OC(=O)CS[C@@H]1CC[C@@H](N)C[C@H]1O	DB12825	https://go.drugbank.com/drugs/DB12825	approved; investigational	-565.076
+Secnidazole	CC(O)CN1C(C)=NC=C1N(=O)=O	DB12834	https://go.drugbank.com/drugs/DB12834	approved	-632.587
+Benperidol	OC1=NC2=CC=CC=C2N1C1CCN(CCCC(=O)C2=CC=C(F)C=C2)CC1	DB12867	https://go.drugbank.com/drugs/DB12867	approved; investigational	-571.904
+Oxatomide	O=C1NC2=C(C=CC=C2)N1CCCN1CCN(CC1)C(C1=CC=CC=C1)C1=CC=CC=C1	DB12877	https://go.drugbank.com/drugs/DB12877	approved; investigational	-573.813
+Tazemetostat	CCN(C1CCOCC1)C1=C(C)C(=CC(=C1)C1=CC=C(CN2CCOCC2)C=C1)C(=O)NCC1=C(C)C=C(C)NC1=O	DB12887	https://go.drugbank.com/drugs/DB12887	approved; investigational	-450.384
+Nicoboxil	CCCCOCCOC(=O)C1=CN=CC=C1	DB12911	https://go.drugbank.com/drugs/DB12911	approved; investigational	-645.868
+Ozenoxacin	CNC1=NC=C(C=C1C)C1=CC=C2C(=O)C(=CN(C3CC3)C2=C1C)C(O)=O	DB12924	https://go.drugbank.com/drugs/DB12924	approved; investigational	-686.149
+Isoxaflutole	[H]C1=NOC(=C1C(=O)C1=C(C([H])=C(C([H])=C1[H])C(F)(F)F)S(=O)(=O)C([H])([H])[H])C1([H])C([H])([H])C1([H])[H]	DB12938	https://go.drugbank.com/drugs/DB12938	approved; experimental; investigational	-625.39
+Dihydralazine	NNC1=C2C=CC=CC2=C(NN)N=N1	DB12945	https://go.drugbank.com/drugs/DB12945	approved; experimental	-698.643
+Methylprednisone	[H][C@@]12CC[C@](O)(C(=O)CO)[C@@]1(C)CC(=O)[C@@]1([H])[C@@]2([H])C[C@H](C)C2=CC(=O)C=C[C@]12C	DB12952	https://go.drugbank.com/drugs/DB12952	approved; investigational	-636.436
+Pexidartinib	FC(F)(F)C1=CC=C(CNC2=NC=C(CC3=CNC4=NC=C(Cl)C=C34)C=C2)C=N1	DB12978	https://go.drugbank.com/drugs/DB12978	approved; investigational	-581.264
+Parthenolide	C\C1=C/CC[C@@]2(C)O[C@H]2[C@H]2OC(=O)C(=C)[C@@H]2CC1	DB13063	https://go.drugbank.com/drugs/DB13063	approved; investigational	-712.147
+Macimorelin	CC(C)(N)C(=O)N[C@H](CC1=CNC2=CC=CC=C12)C(=O)N[C@H](CC1=CNC2=CC=CC=C12)NC=O	DB13074	https://go.drugbank.com/drugs/DB13074	approved; investigational	-485.288
+Biguanide	NC(=N)NC(N)=N	DB13100	https://go.drugbank.com/drugs/DB13100	approved; investigational	-661.419
+Norflurane	FCC(F)(F)F	DB13116	https://go.drugbank.com/drugs/DB13116	approved; experimental	-656.331
+Lusutrombopag	CCCCCCO[C@@H](C)C1=C(OC)C(=CC=C1)C1=CSC(NC(=O)C2=CC(Cl)=C(\C=C(/C)C(O)=O)C(Cl)=C2)=N1	DB13125	https://go.drugbank.com/drugs/DB13125	approved; investigational	-438.079
+Levosalbutamol	CC(C)(C)NC[C@H](O)C1=CC(CO)=C(O)C=C1	DB13139	https://go.drugbank.com/drugs/DB13139	approved; investigational	-707.577
+Levomenol	[H][C@@]1(CCC(C)=CC1)[C@@](C)(O)CCC=C(C)C	DB13153	https://go.drugbank.com/drugs/DB13153	approved; experimental	-634.417
+Alclofenac	OC(=O)CC1=CC(Cl)=C(OCC=C)C=C1	DB13167	https://go.drugbank.com/drugs/DB13167	approved; withdrawn	-651.029
+Gluconic Acid	OC[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)C(O)=O	DB13180	https://go.drugbank.com/drugs/DB13180	approved; investigational	-630.996
+Butaperazine	CCCC(=O)C1=CC2=C(SC3=CC=CC=C3N2CCCN2CCN(C)CC2)C=C1	DB13213	https://go.drugbank.com/drugs/DB13213	approved	-484.563
+Apronalide	CC(C)C(CC=C)C(=O)NC(N)=O	DB13221	https://go.drugbank.com/drugs/DB13221	approved	-657.253
+Phthalylsulfathiazole	OC(=O)C1=CC=CC=C1C(=O)NC1=CC=C(C=C1)S(=O)(=O)NC1=NC=CS1	DB13248	https://go.drugbank.com/drugs/DB13248	approved	-618.833
+Clothiapine	CN1CCN(CC1)C1=NC2=CC=CC=C2SC2=C1C=C(Cl)C=C2	DB13256	https://go.drugbank.com/drugs/DB13256	approved	-655.019
+Dichlorobenzyl alcohol	OCC1=C(Cl)C=C(Cl)C=C1	DB13269	https://go.drugbank.com/drugs/DB13269	approved	-626.16
+Carbocromen	CCOC(=O)COC1=CC2=C(C=C1)C(C)=C(CCN(CC)CC)C(=O)O2	DB13279	https://go.drugbank.com/drugs/DB13279	approved; withdrawn	-498.696
+Bumadizone	CCCCC(C(O)=O)C(=O)N(NC1=CC=CC=C1)C1=CC=CC=C1	DB13286	https://go.drugbank.com/drugs/DB13286	approved	-633.289
+Pimethixene	CN1CCC(CC1)=C1C2=CC=CC=C2SC2=CC=CC=C12	DB13292	https://go.drugbank.com/drugs/DB13292	approved	-636.385
+Chlorquinaldol	CC1=NC2=C(C=C1)C(Cl)=CC(Cl)=C2O	DB13306	https://go.drugbank.com/drugs/DB13306	approved	-632.858
+Trichloroethylene	ClC=C(Cl)Cl	DB13323	https://go.drugbank.com/drugs/DB13323	approved	-629.06
+Pheneticillin	[H][C@]12SC(C)(C)[C@@H](N1C(=O)[C@H]2NC(=O)C(C)OC1=CC=CC=C1)C(O)=O	DB13337	https://go.drugbank.com/drugs/DB13337	approved	-508.751
+Dihydroergocristine	[H][C@@]12CCCN1C(=O)[C@H](CC1=CC=CC=C1)N1C(=O)[C@](NC(=O)[C@H]3CN(C)[C@]4([H])CC5=CNC6=CC=CC(=C56)[C@@]4([H])C3)(O[C@@]21O)C(C)C	DB13345	https://go.drugbank.com/drugs/DB13345	approved; experimental	-634.076
+Edoxudine	CCC1=CN([C@H]2C[C@H](O)[C@@H](CO)O2)C(=O)NC1=O	DB13421	https://go.drugbank.com/drugs/DB13421	approved; investigational; withdrawn	-630.266
+Ioxitalamic acid	CC(=O)NC1=C(I)C(C(O)=O)=C(I)C(C(=O)NCCO)=C1I	DB13444	https://go.drugbank.com/drugs/DB13444	approved	-560.142
+Bendazac	OC(=O)COC1=NN(CC2=CC=CC=C2)C2=CC=CC=C12	DB13501	https://go.drugbank.com/drugs/DB13501	approved; withdrawn	-586.466
+Metergoline	[H][C@@]12CC3=CN(C)C4=CC=CC(=C34)[C@@]1([H])C[C@@H](CNC(=O)OCC1=CC=CC=C1)CN2C	DB13520	https://go.drugbank.com/drugs/DB13520	approved	-570.013
+Cyclopenthiazide	NS(=O)(=O)C1=CC2=C(NC(CC3CCCC3)NS2(=O)=O)C=C1Cl	DB13532	https://go.drugbank.com/drugs/DB13532	approved	-572.528
+Mephenesin	CC1=CC=CC=C1OCC(O)CO	DB13583	https://go.drugbank.com/drugs/DB13583	approved	-612.275
+Methoxyphenamine	CNC(C)CC1=CC=CC=C1OC	DB13624	https://go.drugbank.com/drugs/DB13624	approved	-664.224
+Benorilate	CC(=O)NC1=CC=C(OC(=O)C2=CC=CC=C2OC(C)=O)C=C1	DB13657	https://go.drugbank.com/drugs/DB13657	approved	-606.505
+Cefpirome	[H][C@]12SCC(C[N+]3=C4CCCC4=CC=C3)=C(N1C(=O)[C@H]2NC(=O)C(=N/OC)\C1=CSC(N)=N1)C([O-])=O	DB13682	https://go.drugbank.com/drugs/DB13682	approved	-610.762
+Tritoqualine	CCOC1=C(OCC)C(OCC)=C(N)C2=C1C(OC2=O)C1N(C)CCC2=CC3=C(OCO3)C(OC)=C12	DB13711	https://go.drugbank.com/drugs/DB13711	approved	-661.048
+Diphemanil	C[N+]1(C)CCC(CC1)=C(C1=CC=CC=C1)C1=CC=CC=C1	DB13720	https://go.drugbank.com/drugs/DB13720	approved; vet_approved; withdrawn	-639.235
+Trolamine	OCCN(CCO)CCO	DB13747	https://go.drugbank.com/drugs/DB13747	approved	-631.83
+Lidoflazine	CC1=CC=CC(C)=C1NC(=O)CN1CCN(CCCC(C2=CC=C(F)C=C2)C2=CC=C(F)C=C2)CC1	DB13766	https://go.drugbank.com/drugs/DB13766	approved; experimental	-580.113
+Xamoterol	OC(CNCCNC(=O)N1CCOCC1)COC1=CC=C(O)C=C1	DB13781	https://go.drugbank.com/drugs/DB13781	approved	-627.455
+Muzolimine	CC(N1N=C(N)CC1=O)C1=CC(Cl)=C(Cl)C=C1	DB13801	https://go.drugbank.com/drugs/DB13801	approved; withdrawn	-632.877
+Iodoform	[H]C(I)(I)I	DB13813	https://go.drugbank.com/drugs/DB13813	approved; experimental; vet_approved	-599.701
+Noxytiolin	CNC(=S)NCO	DB13838	https://go.drugbank.com/drugs/DB13838	approved	-713.933
+Fluorodopa (18F)	N[C@@H](CC1=CC(O)=C(O)C=C1[18F])C(O)=O	DB13848	https://go.drugbank.com/drugs/DB13848	approved; experimental	-628.226
+Anethole trithione	COC1=CC=C(C=C1)C1=CC(=S)SS1	DB13853	https://go.drugbank.com/drugs/DB13853	approved; experimental	-630.774
+Fluticasone	[H][C@@]12C[C@@H](C)[C@](O)(C(=O)SCF)[C@@]1(C)C[C@H](O)[C@@]1(F)[C@@]2([H])C[C@H](F)C2=CC(=O)C=C[C@]12C	DB13867	https://go.drugbank.com/drugs/DB13867	approved; experimental	-516.551
+Lormetazepam	CN1C2=C(C=C(Cl)C=C2)C(=NC(O)C1=O)C1=CC=CC=C1Cl	DB13872	https://go.drugbank.com/drugs/DB13872	approved	-633.486
+Methyl nicotinate	COC(=O)C1=CN=CC=C1	DB13882	https://go.drugbank.com/drugs/DB13882	approved	-652.855
+Amylmetacresol	CCCCCC1=CC=C(C)C=C1O	DB13908	https://go.drugbank.com/drugs/DB13908	approved	-636.916
+Netarsudil	CC1=CC(C)=C(C=C1)C(=O)OCC1=CC=C(C=C1)[C@@H](CN)C(=O)NC1=CC=C2C=NC=CC2=C1	DB13931	https://go.drugbank.com/drugs/DB13931	approved	-642.474
+Testosterone cypionate	C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@@H]2OC(=O)CCC1CCCC1	DB13943	https://go.drugbank.com/drugs/DB13943	approved	-632.922
+Estradiol valerate	[H][C@@]12CC[C@H](OC(=O)CCCC)[C@@]1(C)CC[C@]1([H])C3=C(CC[C@@]21[H])C=C(O)C=C3	DB13956	https://go.drugbank.com/drugs/DB13956	approved; investigational; vet_approved	-655.944
+Bronopol	OCC(Br)(CO)[N+]([O-])=O	DB13960	https://go.drugbank.com/drugs/DB13960	approved	-701.551
+Racemethionine	CSCCC(N)C(O)=O	DB13972	https://go.drugbank.com/drugs/DB13972	approved; experimental	-623.345
+Nomegestrol acetate	[H][C@@]12CC[C@](OC(C)=O)(C(C)=O)[C@@]1(C)CC[C@]1([H])[C@@]3([H])CCC(=O)C=C3C(C)=C[C@@]21[H]	DB13981	https://go.drugbank.com/drugs/DB13981	approved; investigational	-633.174
+Baloxavir marboxil	[H][C@@]12COCCN1C(=O)C1=C(OCOC(=O)OC)C(=O)C=CN1N2[C@H]1C2=CC=C(F)C(F)=C2CSC2=CC=CC=C12	DB13997	https://go.drugbank.com/drugs/DB13997	approved; investigational	-567.632
+D-alpha-Tocopherol acetate	CC(C)CCC[C@@H](C)CCC[C@@H](C)CCC[C@]1(C)CCC2=C(C)C(OC(C)=O)=C(C)C(C)=C2O1	DB14002	https://go.drugbank.com/drugs/DB14002	approved; nutraceutical; vet_approved	-518.028
+Bromotheophylline	CN1C2=C(NC(Br)=N2)C(=O)N(C)C1=O	DB14018	https://go.drugbank.com/drugs/DB14018	approved	-626.053
+Benzoin	OC(C(=O)C1=CC=CC=C1)C1=CC=CC=C1	DB14020	https://go.drugbank.com/drugs/DB14020	approved; experimental	-627.455
+Acetyl sulfisoxazole	CC(=O)N(C1=C(C)C(C)=NO1)S(=O)(=O)C1=CC=C(N)C=C1	DB14033	https://go.drugbank.com/drugs/DB14033	approved; vet_approved	-700.483
+Medronic acid	OP(O)(=O)CP(O)(O)=O	DB14078	https://go.drugbank.com/drugs/DB14078	approved; investigational	-626.771
+Betiatide	OC(=O)CNC(=O)CNC(=O)CNC(=O)CSC(=O)C1=CC=CC=C1	DB14082	https://go.drugbank.com/drugs/DB14082	approved; experimental	-579.485
+alpha-Arbutin	OC[C@H]1O[C@H](OC2=CC=C(O)C=C2)[C@H](O)[C@@H](O)[C@@H]1O	DB14109	https://go.drugbank.com/drugs/DB14109	approved; experimental	-629.315
+Butylene glycol	CC(O)CCO	DB14110	https://go.drugbank.com/drugs/DB14110	approved; experimental	-646.34
+Phenylethyl resorcinol	CC(C1=CC=CC=C1)C1=CC=C(O)C=C1O	DB14120	https://go.drugbank.com/drugs/DB14120	approved; experimental	-632.207
+p-Phenylenediamine	NC1=CC=C(N)C=C1	DB14141	https://go.drugbank.com/drugs/DB14141	approved; experimental	-635.661
+Synthetic camphor	CC1(C)C2CCC1(C)C(=O)C2	DB14156	https://go.drugbank.com/drugs/DB14156	approved; experimental	-628.595
+alpha-Amyl cinnamaldehyde	CCCCC\C(C=O)=C\C1=CC=CC=C1	DB14175	https://go.drugbank.com/drugs/DB14175	approved; experimental	-631.923
+Ethylenediamine	NCCN	DB14189	https://go.drugbank.com/drugs/DB14189	approved; experimental	-712.885
+Methylchloroisothiazolinone	CN1SC(Cl)=CC1=O	DB14197	https://go.drugbank.com/drugs/DB14197	approved; experimental	-634.035
+Thiohexam	C1CCC(CC1)NSC1=NC2=CC=CC=C2S1	DB14200	https://go.drugbank.com/drugs/DB14200	approved; experimental	-631.57
+Monomethyl fumarate	COC(=O)\C=C\C(O)=O	DB14219	https://go.drugbank.com/drugs/DB14219	approved; experimental; investigational	-655.06
+L-Lactic acid	C[C@H](O)C(O)=O	DB14475	https://go.drugbank.com/drugs/DB14475	approved; experimental	-628.947
+Mometasone furoate	[H][C@@]12C[C@@H](C)[C@](OC(=O)C3=CC=CO3)(C(=O)CCl)[C@@]1(C)C[C@H](O)[C@@]1(Cl)[C@@]2([H])CCC2=CC(=O)C=C[C@]12C	DB14512	https://go.drugbank.com/drugs/DB14512	approved; investigational; vet_approved	-469.186
+Hydrocortisone acetate	[H][C@@]12CC[C@](O)(C(=O)COC(C)=O)[C@@]1(C)C[C@H](O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C	DB14539	https://go.drugbank.com/drugs/DB14539	approved; vet_approved	-636.081
+Hydrocortisone succinate	[H][C@@]12CC[C@](O)(C(=O)COC(=O)CCC(O)=O)[C@@]1(C)C[C@H](O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C	DB14545	https://go.drugbank.com/drugs/DB14545	approved	-694.536
+Tedizolid	CN1N=NC(=N1)C1=NC=C(C=C1)C1=C(F)C=C(C=C1)N1C[C@H](CO)OC1=O	DB14569	https://go.drugbank.com/drugs/DB14569	approved; investigational	-616.669
+Eslicarbazepine	NC(=O)N1C2=CC=CC=C2[C@@H](O)CC2=C1C=CC=C2	DB14575	https://go.drugbank.com/drugs/DB14575	approved	-662.952
+Segesterone acetate	[H][C@@]12CC(=C)[C@](OC(C)=O)(C(C)=O)[C@@]1(C)CC[C@]1([H])[C@@]3([H])CCC(=O)C=C3CC[C@@]21[H]	DB14583	https://go.drugbank.com/drugs/DB14583	approved; experimental; investigational	-631.008
+Loteprednol etabonate	[H][C@@]12CC[C@](OC(=O)OCC)(C(=O)OCCl)[C@@]1(C)C[C@H](O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)C=C[C@]12C	DB14596	https://go.drugbank.com/drugs/DB14596	approved	-614.753
+Oxyphenisatin acetate	CC(=O)OC1=CC=C(C=C1)C1(C(=O)NC2=CC=CC=C12)C1=CC=C(OC(C)=O)C=C1	DB14627	https://go.drugbank.com/drugs/DB14627	approved; investigational; withdrawn	-580.62
+Diloxanide furoate	CN(C(=O)C(Cl)Cl)C1=CC=C(OC(=O)C2=CC=CO2)C=C1	DB14638	https://go.drugbank.com/drugs/DB14638	approved	-638.033
+Methylprednisolone hemisuccinate	[H][C@@]12CC[C@](O)(C(=O)COC(=O)CCC(O)=O)[C@@]1(C)C[C@H](O)[C@@]1([H])[C@@]2([H])C[C@H](C)C2=CC(=O)C=C[C@]12C	DB14644	https://go.drugbank.com/drugs/DB14644	approved	-657.417
+Drostanolone propionate	[H][C@@]12CC[C@H](OC(=O)CC)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CC[C@@]2([H])CC(=O)[C@H](C)C[C@]12C	DB14655	https://go.drugbank.com/drugs/DB14655	approved; illicit	-629.961
+Betamethasone phosphate	[H][C@@]12C[C@H](C)[C@](O)(C(=O)COP(O)(O)=O)[C@@]1(C)C[C@H](O)[C@@]1(F)[C@@]2([H])CCC2=CC(=O)C=C[C@]12C	DB14669	https://go.drugbank.com/drugs/DB14669	approved; vet_approved	-572.288
+Estramustine phosphate	[H][C@@]12CC[C@H](OP(O)(O)=O)[C@@]1(C)CC[C@]1([H])C3=C(CC[C@@]21[H])C=C(OC(=O)N(CCCl)CCCl)C=C3	DB14674	https://go.drugbank.com/drugs/DB14674	approved; investigational	-565.702
+Dexamethasone metasulfobenzoate	[H][C@@]12C[C@@H](C)[C@](O)(C(=O)COC(=O)C3=CC=CC(=C3)S(O)(=O)=O)[C@@]1(C)C[C@H](O)[C@@]1(F)[C@@]2([H])CCC2=CC(=O)C=C[C@]12C	DB14703	https://go.drugbank.com/drugs/DB14703	approved; experimental	-629.844
+Larotrectinib	O[C@H]1CCN(C1)C(=O)NC1=C2N=C(C=CN2N=C1)N1CCC[C@@H]1C1=C(F)C=CC(F)=C1	DB14723	https://go.drugbank.com/drugs/DB14723	approved; investigational	-634.907
+Solriamfetol	N[C@@H](COC(N)=O)CC1=CC=CC=C1	DB14754	https://go.drugbank.com/drugs/DB14754	approved	-638.231
+Remdesivir	CCC(CC)COC(=O)[C@H](C)N[P@](=O)(OC[C@H]1O[C@](C#N)([C@H](O)[C@@H]1O)C1=CC=C2N1N=CN=C2N)OC1=CC=CC=C1	DB14761	https://go.drugbank.com/drugs/DB14761	approved; investigational	-629.03
+Diroximel fumarate	COC(=O)\C=C\C(=O)OCCN1C(=O)CCC1=O	DB14783	https://go.drugbank.com/drugs/DB14783	approved; investigational	-700.421
+Filgotinib	O=C(NC1=NN2C(C=CC=C2C2=CC=C(CN3CCS(=O)(=O)CC3)C=C2)=N1)C1CC1	DB14845	https://go.drugbank.com/drugs/DB14845	approved; investigational	-645.7
+Cefiderocol	[H][C@]12SCC(C[N+]3(CCNC(=O)C4=C(Cl)C(O)=C(O)C=C4)CCCC3)=C(N1C(=O)[C@H]2NC(=O)C(=N/OC(C)(C)C(O)=O)\C1=CSC(N)=N1)C([O-])=O	DB14879	https://go.drugbank.com/drugs/DB14879	approved; investigational	-486.454
+Oliceridine	COC1=C(CNCC[C@]2(CCOC3(CCCC3)C2)C2=NC=CC=C2)SC=C1	DB14881	https://go.drugbank.com/drugs/DB14881	approved; investigational	-638.696
+Vibegron	O[C@@H]([C@H]1CC[C@@H](CC2=CC=C(NC(=O)[C@@H]3CCC4=NC=CC(=O)N34)C=C2)N1)C1=CC=CC=C1	DB14895	https://go.drugbank.com/drugs/DB14895	approved; investigational	-634.814
+Flortaucipir F-18	[18F]C1=CC=C(C=N1)C1=CC=C2C(NC3=C2C=NC=C3)=C1	DB14914	https://go.drugbank.com/drugs/DB14914	approved; investigational	-640.075
+Zanubrutinib	NC(=O)C1=C2NCC[C@@H](C3CCN(CC3)C(=O)C=C)N2N=C1C1=CC=C(OC2=CC=CC=C2)C=C1	DB15035	https://go.drugbank.com/drugs/DB15035	approved; investigational	-236.887
+Upadacitinib	CC[C@@H]1CN(C[C@@H]1C1=CN=C2C=NC3=C(C=CN3)N12)C(=O)NCC(F)(F)F	DB15091	https://go.drugbank.com/drugs/DB15091	approved; investigational	-623.335
+Pemigatinib	CCN1C(=O)N(CC2=CN=C3NC(CN4CCOCC4)=CC3=C12)C1=C(F)C(OC)=CC(OC)=C1F	DB15102	https://go.drugbank.com/drugs/DB15102	approved; investigational	-631.939
+Risdiplam	CC1=CN2N=C(C=C(C)C2=N1)C1=CC(=O)N2C=C(C=CC2=N1)N1CCNC2(CC2)C1	DB15305	https://go.drugbank.com/drugs/DB15305	approved; investigational	-540.291
+Ubrogepant	C[C@@H]1[C@@H](C[C@H](NC(=O)C2=CN=C3C[C@]4(CC3=C2)C(=O)NC2=NC=CC=C42)C(=O)N1CC(F)(F)F)C1=CC=CC=C1	DB15328	https://go.drugbank.com/drugs/DB15328	approved; investigational	-517.844
+Elexacaftor	C[C@@H]1CN(C2=NC(=CC=C2C(=O)NS(=O)(=O)C2=CN(C)N=C2C)N2C=CC(OCC(C)(C)C(F)(F)F)=N2)C(C)(C)C1	DB15444	https://go.drugbank.com/drugs/DB15444	approved; investigational	-716.09
+Cinoxate	CCOCCOC(=O)\C=C\C1=CC=C(OC)C=C1	DB15467	https://go.drugbank.com/drugs/DB15467	approved	-644.804
+Alloin	OC[C@H]1O[C@H]([C@H](O)[C@@H](O)[C@@H]1O)C1C2=CC=CC(O)=C2C(=O)C2=C1C=C(CO)C=C2O	DB15477	https://go.drugbank.com/drugs/DB15477	approved; experimental	-630.521
+Resorcinol monoacetate	CC(=O)OC1=CC(O)=CC=C1	DB15480	https://go.drugbank.com/drugs/DB15480	approved; experimental	-663.451
+Colchiceine	COC1=C(OC)C(OC)=C2C(CCC(NC(C)=O)C3=CC(=O)C(O)=CC=C23)=C1	DB15534	https://go.drugbank.com/drugs/DB15534	approved; experimental	-633.425
+Prednisolone acetate	[H][C@@]12CC[C@](O)(C(=O)COC(C)=O)[C@@]1(C)C[C@]([H])(O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)C=C[C@]12C	DB15566	https://go.drugbank.com/drugs/DB15566	approved; vet_approved	-634.317
+Ethyl salicylate	CCOC(=O)C1=CC=CC=C1O	DB15576	https://go.drugbank.com/drugs/DB15576	approved; experimental	-592.922
+Selpercatinib	COC1=NC=C(CN2C3CC2CN(C3)C2=CC=C(C=N2)C2=CC(OCC(C)(C)O)=CN3N=CC(C#N)=C23)C=C1	DB15685	https://go.drugbank.com/drugs/DB15685	approved; investigational	-536.501
+Fluoroestradiol F-18	[H][C@@]12C[C@@H]([18F])[C@H](O)[C@@]1(C)CC[C@]1([H])C3=C(CC[C@@]21[H])C=C(O)C=C3	DB15690	https://go.drugbank.com/drugs/DB15690	approved	-650.417
+Mebrofenin	CC1=CC(C)=C(Br)C(C)=C1NC(=O)CN(CC(O)=O)CC(O)=O	DB15779	https://go.drugbank.com/drugs/DB15779	approved; experimental	-640.292
+Anethole	COC1=CC=C(\C=C\C)C=C1	DB15916	https://go.drugbank.com/drugs/DB15916	approved; experimental	-635.702
+Berotralstat	NCC1=CC(=CC=C1)N1N=C(C=C1C(=O)NC1=CC(=CC=C1F)[C@H](NCC1CC1)C1=CC=CC(=C1)C#N)C(F)(F)F	DB15982	https://go.drugbank.com/drugs/DB15982	approved	-611.925
+Thenyldiamine	CN(C)CCN(CC1=CSC=C1)C1=CC=CC=N1	DB16022	https://go.drugbank.com/drugs/DB16022	approved; experimental	-630.575
