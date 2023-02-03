@@ -1,0 +1,93 @@
+	.data	
+one: 		.double 1.0
+neg_four: 	.double -4.0
+tolerance:	.double 0.000001
+message:	.asciiz	"please enter an integer : "
+nextline: 	.asciiz "\n"
+xequals:	.asciiz " x = "
+fofx:		.asciiz ", f(x)= "
+neg_eight:	.double -8.0
+three:		.double 3.0
+
+	.text
+	
+	
+prompt:
+	li	$v0, 4
+	la	$a0, message
+	syscall
+	li 	$v0, 7
+	syscall
+	mov.d  $f18,$f0
+	b main
+	
+	
+main:	ldc1 $f2, tolerance # 10^-6
+	ldc1 $f4, one # 1
+	ldc1 $f6,  neg_four # -4
+	ldc1 $f8, three # 3
+	ldc1 $f14, neg_eight # -8
+	b loop
+Function:
+	mul.d $f20, $f18,$f18 #x^2
+	mul.d $f22, $f18, $f20 #x^3
+	mul.d $f6, $f6, $f20 # -4x^2
+	add.d $f22, $f6,$f22 #x^3-4x^2
+	add.d $f22, $f22,$f4 #+1
+	jr $ra
+	 # f22 = function value
+Derivative:
+	mul.d $f8, $f8, $f20 #3x^2
+	mul.d $f14, $f14,$f18 #-8^2
+	add.d $f14, $f14,$f8 #3x^2-8^2
+	jr $ra
+NewtonRaphson:
+	div.d $f22, $f22,$f14
+	sub.d $f26, $f18,$f22 
+	jr $ra
+	
+	
+loop:
+	jal Function
+	jal Derivative
+	jal print
+	jal NewtonRaphson
+	abs.d $f22, $f22
+	c.le.d  $f22,$f2 # if  f(x)/f'(x) is less than 10^6
+	bc1t End #break
+	mov.d $f18, $f26 # reset x
+	j main
+
+	
+	
+print:	
+	li	$v0, 4
+	la	$a0, xequals
+	syscall
+	
+	mov.d $f12,$f18
+	li	$v0, 3
+	syscall 
+	
+	li	$v0, 4
+	la	$a0, fofx
+	syscall
+	
+	mov.d $f12, $f22
+	li $v0, 3
+	syscall
+	
+	li	$v0, 4
+	la	$a0, nextline
+	syscall
+	
+	
+	jr $ra
+
+	
+End:
+	li $v0 , 10
+	syscall
+	
+
+	
