@@ -1,2 +1,2 @@
 # Myprojects
-University assignments and projects
+University assignments and mini projects
